@@ -1,0 +1,99 @@
+<html>
+<head>
+  <meta charset="en">
+  <title>EnglishPod</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,minimum-scale=1,minimal-ui">
+  <style type="text/css">
+    html,body{
+      padding: 0;
+      margin: 0;
+    }
+    .main{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+    table{
+      border: 4px solid #008000;
+      font-size: 14px;
+      border-collapse: collapse;
+      margin-bottom: 50px;
+    }
+
+    .header{
+      font-weight: bold;
+    }
+
+    .header>td{
+      text-align: center !important;
+    }
+
+    table tr{
+      width:100px;
+    }
+
+    table td{
+      width: 100px;
+      text-align: center;
+    }
+    .line td{
+      border-top: 1px solid #008000;;
+    }
+    .qucik{
+      margin-bottom: 20px;
+    }
+    .qucik a{
+      display: inline-block;
+      text-decoration: none;
+      height: 30px;
+      line-height: 30px;
+      margin-right: 10px;
+      padding-left: 5px;
+      padding-right: 5px;
+      background-color: #F1F3F4;
+      border-radius: 5px;
+      color: blue;
+    }
+  </style>
+</head>
+
+<body>
+    <div class="main">
+      <div><h2>EnglishPod</h2></div>
+      <div class="qucik">
+        <a target="_blank" href="https://vczero.github.io/englishpod/word.html">word</a>
+        <a target="_blank" href="https://vczero.github.io/englishpod/ses.html">sentence</a>
+      </div>
+      <div id="tb1"></div>
+      <div id="tb2"></div>
+      <div id="tb3"></div>
+      <div id="tb4"></div>
+    </div>
+
+    <script type="text/javascript">
+
+        function create_table(star, end){
+          var header_str = '<table> <tr class="header"><td>Lesson</td><td>Audio</td><td>Long Audio</td><td>PDF</td><td>Long PDF</td></tr>'
+          var arr = []
+          for (i = star; i <= end; i++){
+            var oss = 'https://myenglishpod.oss-cn-hangzhou.aliyuncs.com/temp/'
+            var str = '<tr class="line">' 
+              + '<td>'+ i +'</td>'
+              + '<td><a target="_blank" href="./audio.html?src=' + oss + i  + '.mp3" >短音频</a>'+ '</td>'
+              + '<td><a target="_blank" href="./audio.html?src=' + oss + i  + '_l.mp3" >长音频</a>'+ '</td>' 
+              + '<td><a target="_blank" href="' + oss + i  + '.pdf" >短文</a>'+ '</td>' 
+              + '<td><a target="_blank" href="' + oss + i  + '_l.pdf" >长文</a>'+ '</td>' 
+              + ' </tr>'
+            arr.push(str)
+          }
+          var table_end = '</table>'
+          return header_str + arr.join('') + table_end
+        }
+
+        document.getElementById('tb1').innerHTML = create_table(1, 365)
+    </script>
+</body>
+
+</html>

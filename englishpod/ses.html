@@ -1,0 +1,64 @@
+<html>
+<head>
+  <meta charset="en">
+  <title>EnglishSentence</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,minimum-scale=1,minimal-ui">
+  <style type="text/css">
+    html,body{
+      padding: 0;
+      margin: 0;
+    }
+    .main{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      padding-bottom: 40px;
+    }
+    .block{
+      background-color: #F1F3F4;
+      max-width: 600px;
+      width: 100%;
+      padding: 10px;
+      margin-bottom: 10px;
+      box-sizing: border-box;
+      display: flex;
+      flex-direction: row;
+    }
+    .date{
+      margin-bottom: 10px;
+      padding-top: 10px;
+      font-weight: bold;
+    }
+    .num{
+      font-weight: bold;
+      margin-right: 10px;
+      color: #1c56d1;
+    }
+  </style>
+</head>
+
+<body>
+    <div class="main">
+      <div><h2>EnglishSentence</h2></div>
+    </div>
+
+    <script type="text/javascript" src="./lib/zepto.js"></script>
+    <script type="text/javascript">
+      function genHTML(key, res){
+        return '<div class="block">' + '<div class="num">' + (parseInt(key) + 1) + '</div><div>' + res[key] + '</div></div>'
+      }
+
+      $.getJSON('https://vczero.github.io/englishpod/data/every_day_ses.json', function(res){
+        var arr_html = []
+        for(var key in res){
+          arr_html.push(genHTML(key ,res))
+        }
+
+        $('.main').append(arr_html.join(''))
+      })
+    </script>
+</body>
+
+</html>

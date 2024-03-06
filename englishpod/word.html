@@ -1,0 +1,84 @@
+<html>
+<head>
+  <meta charset="en">
+  <title>EnglishWord</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,minimum-scale=1,minimal-ui">
+  <style type="text/css">
+    html,body{
+      padding: 0;
+      margin: 0;
+    }
+    .main{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      padding-bottom: 40px;
+    }
+    .block{
+      background-color: #F1F3F4;
+      max-width: 600px;
+      padding: 10px;
+      background-color: #F1F3F4;
+      max-width: 600px;
+      width: 100%;
+      padding: 10px;
+      margin-bottom: 10px;
+      box-sizing: border-box;
+    }
+    .block>span{
+      display: inline-block;
+      padding-left: 5px;
+      padding-right: 5px;
+      border: 1px solid;
+      margin-right: 5px;
+      padding: 5px;
+      margin-bottom: 5px;
+    }
+    .date{
+      margin-bottom: 10px;
+      padding-top: 10px;
+      font-weight: bold;
+    }
+  </style>
+</head>
+
+<body>
+    <div class="main">
+      <div><h2>EnglishWord</h2></div>
+  
+      <!-- <div class="date">#2022-4-9</div>
+      <div class="block">
+        <span>legend</span>
+        <span>pratical</span>
+        <span>legend</span>
+        <span>pratical</span>
+      </div> -->
+
+    </div>
+
+    <script type="text/javascript" src="./lib/zepto.js"></script>
+    <script type="text/javascript">
+      function genHTML(key, list){
+        var str = '<div class="date">#' + key + '</div>'
+        var arr = []
+        for(var i in list){
+          arr.push('<span>' + list[i] + '</span> ')
+        }
+        return str + '<div class="block">' + arr.join('') + '</div>'
+      }
+
+      $.getJSON('https://vczero.github.io/englishpod/data/every_day_words.json', function(res){
+        var arr_html = []
+        for(var key in res){
+          var list = res[key]
+          arr_html.push(genHTML(key, list))
+        }
+
+        $('.main').append(arr_html.join(''))
+      })
+    </script>
+</body>
+
+</html>
