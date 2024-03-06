@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <title>成本计算器</title>
+    <script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+
+    <style>
+    html,body{
+        margin:0;
+        padding:0;
+    }
+    .header{
+        background-color: #246CF9;
+        font-size:30px;
+        height:70px;
+        color:#fff;
+        display:flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .container{
+        display:flex;
+        justify-content: center;
+        flex:1;
+    }
+    .main{
+        width: 300px;
+        display:flex;
+        min-height:300px;
+        flex-direction: column;
+        padding-bottom:40px;
+    }
+    .inp{
+        height:40px;
+        display:flex;
+        align-items: center;
+        flex-direction: row;
+        margin-top:20px;
+    }
+
+    .inp span{
+        width:80px;
+        font-size:12px;
+        justify-content: flex-end;
+        display: flex;
+        padding-right: 10px;
+    }
+
+    .inp input{
+        width:180px;
+        height:30px;
+        border-radius:5px;
+        padding-left:5px;
+        margin-right:5px;
+    }
+    .fenge{
+        height:1px;
+        margin-top:10px;
+        border-top:3px solid #ddd;
+    }
+    .btn{
+        background-color:#3165F4;
+        color:#fff;
+        font-size:14px;
+        height:35px;
+        width:80px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius:2px;
+        cursor:pointer;
+    }
+
+    .res{
+        font-size:12px;
+        margin-top:20px;
+    }
+    .res-row{
+        display:flex;
+        flex-direction:row;
+        height:20px;
+        color:#4B4B4B;
+    }
+    </style>
+
+</head>
+<body>
+
+<div class="header">产品定价计算器</div>
+<div class="container">
+    <div class="main">
+        <div class="inp"><span>增值税率</span><input id="zzs_rate" value="13"/>%</div>
+        <div class="inp"><span>打印物料成本</span><input id="dayin" value="0"/>元</div>
+        <div class="inp"><span>采购物料成本</span><input id="wuliao" value="0"/>元</div>
+        <div class="inp"><span>礼盒成本</span><input id="lihe" value="0"/>元</div>
+        <div class="inp"><span>快递费</span><input id="kuaidi" value="0"/>元</div>
+        <div class="inp"><span>外包装费</span><input id="waibaozhuang" value="0"/>元</div>
+        <div class="inp"><span>房租/水电</span><input id="fangzu" value="0"/>元</div>
+        <div class="inp"><span>组装成本</span><input  id="zuzhuang" value="0"/>元</div>
+        <div class="inp"><span>人际成本</span><input  id="renji" value="0"/>元</div>
+        <div class="inp"><span>推广费用</span><input id="tuiguang" value="0"/>元</div>
+        <div class="inp"><span style="color:red;">产品对外报价</span><input id="baojia" value="0"/>元</div>
+        <div class="inp" style="justify-content: flex-end;">
+            <div class="btn">开始计算</div>
+        </div>
+        <div class="fenge"></div>
+
+        <div class="res">
+            <div class="res-row"><span>基础成本：</span><span id="chengben">0</span>元</div>
+            <div class="res-row"><span>增值税（<span id="zzsr_text">13</span>%）：</span><span id="zengzhishui">0</span>元</div>
+            <div class="res-row"><span>毛利润：</span><span id="maoli">0</span>元</div>
+            <div class="fenge"></div>
+            <div class="res-row"><span>企业所得税（5%）：</span><span id="qiyesuodeshui">0</span>元</div>
+            <div class="res-row"><span>股东分红税（20%）：</span><span id="fenhongshui">0</span>元</div>
+            <div class="res-row"><span>其他税种（3%）：</span><span id="qitashui">0</span>元</div>
+            <div class="res-row"><span>税额汇总：</span><span id="shui">0</span>元</div>
+            <div class="res-row" style="color:#030303;"><span>产品净利润：</span><span id="jinlirun">0</span>元</div>
+            <div class="res-row" style="color:#030303;"><span>利润率：</span><span id="lirunlv">0</span> %</div>
+        </div>
+    </div>
+</div>
+<script>
+
+    $('.btn').on('click', function(){
+        // 增值税率
+        var zzs_rate = parseFloat($('#zzs_rate').val())
+        var zzs_rate_rr =  zzs_rate / 100
+        // ------------------基础成本----------------------
+        var dayin = parseFloat($('#dayin').val())
+        var wuliao = parseFloat($('#wuliao').val())
+        var lihe = parseFloat($('#lihe').val())
+        var kuaidi = parseFloat($('#kuaidi').val())
+        var waibaozhuang = parseFloat($('#waibaozhuang').val())
+        var fangzu = parseFloat($('#fangzu').val())
+        var zuzhuang = parseFloat($('#zuzhuang').val())
+        var renji = parseFloat($('#renji').val())
+        var tuiguang = parseFloat($('#tuiguang').val())
+        
+        var cost = dayin + wuliao + lihe + kuaidi + waibaozhuang + fangzu + zuzhuang + renji + tuiguang
+        
+        var baojia = parseFloat($('#baojia').val())
+        // 显示结果
+        $('#chengben').text(cost.toFixed(2))
+        $('#zzsr_text').text(zzs_rate.toFixed(0))
+
+        //----------------税----------------------------
+        // 增值税是价外税
+        // (baojia / (1 + 0.13)) * 0.13
+        var zengzhishui = (baojia / (1 + zzs_rate_rr)) * zzs_rate_rr
+        $('#zengzhishui').text(zengzhishui.toFixed(2))
+
+        // 毛利润  = 报价 / 1.13 - 基础成本
+        var maoli = (baojia / (1 + zzs_rate_rr)) - cost
+        $('#maoli').text(maoli.toFixed(2))
+
+        // 企业所得税 = 毛利润 * 5%
+        var qiyesuodeshui = maoli * 0.05
+        $('#qiyesuodeshui').text(qiyesuodeshui.toFixed(2))
+
+        // 股东分红税 = 毛利润 * 20%
+        var fenhongshui = maoli * 0.2
+        $('#fenhongshui').text(fenhongshui.toFixed(2))
+
+        // 其他税种 = 毛利润 * 3%
+        var qitashui = maoli * 0.03
+        $('#qitashui').text(qitashui.toFixed(2))
+
+        var shui = zengzhishui + qiyesuodeshui + fenhongshui + qitashui
+        $('#shui').text(shui.toFixed(2))
+        
+        //----------------利润--------------------------
+        //净利润
+        //jinlirun = 报价 - 成本 - 税额
+        var jinlirun = baojia - cost - shui
+        $('#jinlirun').text(jinlirun.toFixed(2))
+        //利润率 = 净利润 / 报价
+        $('#lirunlv').text(((jinlirun/baojia) * 100 ).toFixed(2))
+    })
+ 
+</script>
+</body>
+</html>
