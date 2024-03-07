@@ -102,6 +102,12 @@
         <div class="inp"><span>组装成本</span><input  id="zuzhuang" value="0"/>元</div>
         <div class="inp"><span>人际成本</span><input  id="renji" value="0"/>元</div>
         <div class="inp"><span>推广费用</span><input id="tuiguang" value="0"/>元</div>
+
+        <div class="inp"><span>设计费用</span><input id="sheji" value="0"/>元</div>
+        <div class="inp"><span>人员工资</span><input id="gongzi" value="0"/>元</div>
+        <div class="inp"><span>开模打烊费</span><input id="dayang" value="0"/>元</div>
+        <div class="inp"><span>其他费用</span><input id="qitafeiyong" value="0"/>元</div>
+
         <div class="inp"><span style="color:red;">产品对外报价</span><input id="baojia" value="0"/>元</div>
         <div class="inp" style="justify-content: flex-end;">
             <div class="btn">开始计算</div>
@@ -138,8 +144,21 @@
         var zuzhuang = parseFloat($('#zuzhuang').val())
         var renji = parseFloat($('#renji').val())
         var tuiguang = parseFloat($('#tuiguang').val())
+
+        var sheji = parseFloat($('#sheji').val())
+        var gongzi = parseFloat($('#gongzi').val())
+        var dayang = parseFloat($('#dayang').val())
+        var qitafeiyong = parseFloat($('#qitafeiyong').val())
+
+
+
         
-        var cost = dayin + wuliao + lihe + kuaidi + waibaozhuang + fangzu + zuzhuang + renji + tuiguang
+        var cost = dayin + wuliao + lihe + kuaidi 
+        + waibaozhuang + fangzu + zuzhuang + renji + tuiguang
+        + sheji
+        + gongzi
+        + dayang
+        + qitafeiyong
         
         var baojia = parseFloat($('#baojia').val())
         // 显示结果
