@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>City Influence Network</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(to bottom, #CBD7ED, #FDFEFD);
+            text-align: center;
+            background-repeat: no-repeat; 
+            min-height: 100vh;
+        }
+        header {
+            background-color: #235CEA;
+            color: white;
+            padding: 20px 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            position: relative;
+        }
+        header h1 {
+            margin: 0;
+            flex: 1;
+            color: #fff;
+        }
+        .github-link {
+            position: absolute;
+            right: 20px;
+            color: white;
+            text-decoration: none;
+            display: flex;
+            align-items: center;
+        }
+        .github-link img {
+            width: 24px;
+            height: 24px;
+            margin-left: 8px;
+        }
+        .content {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .gallery {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+        .gallery a {
+            margin: 10px;
+            border: 2px solid #ddd;
+            border-radius: 4px;
+            overflow: hidden;
+            transition: transform 0.3s;
+            flex: 1 0 calc(33.333% - 20px); 
+            box-sizing: border-box;
+            max-width: calc(33.333% - 20px); 
+        }
+        .gallery a:hover {
+            transform: scale(1.05);
+            border-color: #4CAF50;
+        }
+        .gallery img {
+            width: 100%;
+            height: auto;
+            display: block;
+        }
+        footer {
+            color: #1D49B5;
+            padding: 10px 0;
+            width: 100%;
+            bottom: 0;
+        }
+        @media (max-width: 768px) {
+            .gallery a {
+                flex: 1 0 calc(50% - 20px); 
+                max-width: calc(50% - 20px); 
+            }
+        }
+        @media (max-width: 480px) {
+            .gallery a {
+                flex: 1 0 calc(100% - 20px); 
+                max-width: calc(100% - 20px); 
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>City Influence Network</h1>
+        
+    </header>
+    
+    <div class="content">
+        <div class="gallery">
+            <a href="CII_scatter_EN.html"><img src="./imgs/1.png"></a>
+            <a href="CII_heatmap.html"><img src="./imgs/2.png"></a>
+            <a href="CII_cities.html"><img src="./imgs/3.png"></a>
+            <a href="CII_hexagon.html"><img src="./imgs/4.png"></a>
+            <a href="CII_provinces.html"><img src="./imgs/5.png"></a>
+            <a href="CII_flow.html"><img src="./imgs/6.png"></a>
+        </div>
+
+        <div>
+           <a href="https://github.com/vczero/CII">
+            <img src="./imgs/github-mark.svg" style="width: 40px;margin-top:30px;"/>
+            <div>GitHub Repository</div>
+          </a>
+           
+        </div>
+
+    </div>
+
+
+    <footer>
+        <p>Authors: Lihua Wang and Shengyi Jiang* | Time: June 15, 2024</p>
+    </footer>
+</body>
+</html>
+
+

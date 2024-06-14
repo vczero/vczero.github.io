@@ -1,0 +1,117 @@
+
+    <!DOCTYPE html>
+    <html>
+      <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+        <link rel="shortcut icon" href="https://mdn.alipayobjects.com/huamei_qa8qxu/afts/img/A*WCVLT5Dp5oYAAAAAAAAAAAAADmJ7AQ/original">
+        <title>CII_省级</title>
+        <script>
+          const MAP_TOKEN = '4e29397070fb36210569bf0d6cd94823';
+          window._AMapSecurityConfig = { securityJsCode: '76a7861a23296b5ab3227d3afaa8141c'} 
+        </script>
+
+        <!-- antd css -->
+        <link href="https://gw.alipayobjects.com/os/lib/antd/5.9.2/dist/reset.css" rel="stylesheet"></link>
+
+        <!-- LarkMap css -->
+        <link href="https://registry.npmmirror.com/@antv/larkmap/1.4.16/files/dist/larkmap.min.css" rel="stylesheet"></link>
+
+        <!-- Load lodash -->
+        <script src="https://gw.alipayobjects.com/os/lib/lodash/4.17.20/lodash.min.js" crossorigin></script>
+
+        <!-- Load React -->
+        <script src="https://gw.alipayobjects.com/os/lib/react/18.2.0/umd/react.production.min.js" crossorigin></script>
+    <script src="https://gw.alipayobjects.com/os/lib/react-dom/18.2.0/umd/react-dom.production.min.js" crossorigin></script>
+
+        <!-- Load antd/icons -->
+        <script src="https://gw.alipayobjects.com/os/lib/dayjs/1.11.10/dayjs.min.js" crossorigin></script>
+    <script src="https://gw.alipayobjects.com/os/lib/antd/5.9.2/dist/antd.min.js" crossorigin></script>
+    <script src="https://gw.alipayobjects.com/os/lib/ant-design/icons/5.2.5/dist/index.umd.min.js" crossorigin></script>
+
+        <!-- Load turf/mapbox/L7/L7Draw/LarkMap -->
+        <script src="https://gw.alipayobjects.com/os/lib/turf/turf/6.5.0/turf.min.js" crossorigin></script>
+        <script src="https://gw.alipayobjects.com/os/lib/mapbox-gl/1.13.3/dist/mapbox-gl.js" crossorigin></script>
+    <script src="https://registry.npmmirror.com/@antv/l7/2.22.0/files/dist/l7.js" crossorigin></script>
+    <script src="https://registry.npmmirror.com/@antv/l7-draw/3.1.3/files/dist/l7-draw.min.js" crossorigin></script>
+        <script src="https://registry.npmmirror.com/@antv/larkmap/1.4.16/files/dist/larkmap.min.js" crossorigin></script>
+
+        <!-- Load LI SDK -->
+        <script src="https://registry.npmmirror.com/@antv/li-sdk/1.4.2/files/dist/umd/li-sdk.min.js" crossorigin></script>
+
+        <!-- Load formily: for dependencies some LI asset attribute -->
+        <script src="https://gw.alipayobjects.com/os/lib/formily/reactive/2.2.29/dist/formily.reactive.umd.production.js" crossorigin></script>
+    <script src="https://gw.alipayobjects.com/os/lib/formily/path/2.2.29/dist/formily.path.umd.production.js" crossorigin></script>
+    <script src="https://gw.alipayobjects.com/os/lib/formily/shared/2.2.29/dist/formily.shared.umd.production.js" crossorigin></script>
+    <script src="https://gw.alipayobjects.com/os/lib/formily/validator/2.2.29/dist/formily.validator.umd.production.js" crossorigin></script>
+    <script src="https://gw.alipayobjects.com/os/lib/formily/core/2.2.29/dist/formily.core.umd.production.js" crossorigin></script>
+    <script src="https://gw.alipayobjects.com/os/lib/formily/json-schema/2.2.29/dist/formily.json-schema.umd.production.js" crossorigin></script>
+    <script src="https://gw.alipayobjects.com/os/lib/react-is/17.0.2/umd/react-is.production.min.js" crossorigin></script>
+    <script src="https://gw.alipayobjects.com/os/lib/formily/reactive-react/2.2.29/dist/formily.reactive-react.umd.production.js" crossorigin></script>
+    <script src="https://gw.alipayobjects.com/os/lib/formily/react/2.2.29/dist/formily.react.umd.production.js" crossorigin></script>
+    <script src="https://gw.alipayobjects.com/os/lib/formily/antd-v5/1.1.2/dist/formily.antd-v5.umd.production.js" crossorigin></script>
+
+        <!-- Load LI Assets CSS -->
+        
+      </head>
+      <body>
+        <!-- app style -->
+        <style type="text/css">
+          #app {
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+          }
+          /* 地图版权遮挡控件问题 */
+          .amap-copyright {
+            left: 100px;
+          }
+        </style>
+        <div id="app"></div>
+
+        <!-- Load LI Assets -->
+        <script src="https://registry.npmmirror.com/@antv/li-core-assets/1.3.5/files/dist/umd/li-core-assets.min.js" crossorigin></script>
+    <script src="https://registry.npmmirror.com/@antv/li-analysis-assets/1.8.1/files/dist/umd/li-analysis-assets.min.js" crossorigin></script>
+
+        <!-- LI Datasets -->
+        <script>
+          const LI_Datasets = [{"id":"b7335d9d-4b42-48d3-b4f9-b55db2ed6324","metadata":{"name":"省级CII-rank"},"data":[{"pro_name":"北京市","avg_score":100,"en_name":"Beijing","en_short":"BJ"},{"pro_name":"上海市","avg_score":80.68,"en_name":"Shanghai","en_short":"SH"},{"pro_name":"香港特别行政区","avg_score":64.01,"en_name":"Hong Kong","en_short":"HK"},{"pro_name":"重庆市","avg_score":61.38,"en_name":"Chongqing","en_short":"CQ"},{"pro_name":"天津市","avg_score":59.42,"en_name":"Tianjin","en_short":"TJ "},{"pro_name":"澳门特别行政区","avg_score":57.27,"en_name":"Macau","en_short":"MO"},{"pro_name":"台湾省","avg_score":56.68,"en_name":"Taiwan","en_short":"TW"},{"pro_name":"浙江省","avg_score":45.99,"en_name":"Zhejiang","en_short":"ZJ"},{"pro_name":"广东省","avg_score":43.8,"en_name":"Guangdong","en_short":"GD"},{"pro_name":"江苏省","avg_score":41.37,"en_name":"Jiangsu","en_short":"JS"},{"pro_name":"四川省","avg_score":35.46,"en_name":"Sichuan","en_short":"SC"},{"pro_name":"安徽省","avg_score":34.24,"en_name":"Anhui","en_short":"AH"},{"pro_name":"陕西省","avg_score":33.55,"en_name":"Shaanxi","en_short":"SN"},{"pro_name":"福建省","avg_score":32.96,"en_name":"Fujian","en_short":"FJ"},{"pro_name":"河北省","avg_score":32.24,"en_name":"Hebei","en_short":"HE"},{"pro_name":"山东省","avg_score":32.1,"en_name":"Shandong","en_short":"SD"},{"pro_name":"河南省","avg_score":29.27,"en_name":"Henan","en_short":"HA"},{"pro_name":"云南省","avg_score":29.09,"en_name":"Yunnan","en_short":"YN"},{"pro_name":"海南省","avg_score":27.25,"en_name":"Hainan","en_short":"HI"},{"pro_name":"湖北省","avg_score":25.81,"en_name":"Hubei","en_short":"HB"},{"pro_name":"江西省","avg_score":25.38,"en_name":"Jiangxi","en_short":"JX"},{"pro_name":"甘肃省","avg_score":24.85,"en_name":"Gansu","en_short":"GS"},{"pro_name":"湖南省","avg_score":24.05,"en_name":"Hunan","en_short":"HN"},{"pro_name":"贵州省","avg_score":23.33,"en_name":"Guizhou","en_short":"GZ"},{"pro_name":"内蒙古自治区","avg_score":23.28,"en_name":"Inner Mongolia","en_short":"NM"},{"pro_name":"山西省","avg_score":22.84,"en_name":"Shanxi","en_short":"SX"},{"pro_name":"辽宁省","avg_score":22.38,"en_name":"Liaoning","en_short":"LN"},{"pro_name":"黑龙江省","avg_score":21.85,"en_name":"Heilongjiang","en_short":"HL"},{"pro_name":"广西壮族自治区","avg_score":21.32,"en_name":"Guangxi","en_short":"GX"},{"pro_name":"西藏自治区","avg_score":20.45,"en_name":"Xizang","en_short":"XZ"},{"pro_name":"吉林省","avg_score":20.37,"en_name":"Jilin","en_short":"JL"},{"pro_name":"宁夏回族自治区","avg_score":19.83,"en_name":"Ningxia","en_short":"NX"},{"pro_name":"青海省","avg_score":19.04,"en_name":"Qinghai","en_short":"QH"},{"pro_name":"新疆维吾尔自治区","avg_score":16.77,"en_name":"Xinjiang","en_short":"XJ"}],"type":"local","columns":[{"type":"string","name":"pro_name"},{"type":"number","name":"avg_score"},{"type":"string","name":"en_name"},{"type":"string","name":"en_short"}]}]
+        </script>
+        <!-- LI ApplicationConfig -->
+        <script>
+        const LI_Config = {"version":"v0.1","metadata":{"name":"CII_省级","description":"无描述信息","assetPackageIds":["@antv/li-core-assets","@antv/li-analysis-assets"],"creatTime":"2024-6-14 14:29:10"},"datasets":[],"spec":{"map":{"basemap":"Gaode","config":{"zoom":3,"center":[120.153576,30.287459],"pitch":0,"bearing":0,"style":"dark","WebGLParams":{"preserveDrawingBuffer":true},"token":"f0230f884bbd54e2913c890cdf45aa7e"},"logoPosition":"leftbottom"},"layers":[{"id":"ChinaAdminLayer_8dbf12af-5a77-47ae-a13d-b72abcd51356","type":"ChinaAdminLayer","metadata":{"name":"省级CII-rank图层"},"sourceConfig":{"countryAdConfig":{"countryGranularity":"province","countryAdType":"adname","countryAdField":"pro_name"},"datasetId":"b7335d9d-4b42-48d3-b4f9-b55db2ed6324"},"visConfig":{"fillColor":{"field":"avg_score","value":["#fee5d9","#fcae91","#fb6a4a","#de2d26","#a50f15"],"scale":{"type":"quantile"},"isReversed":false},"opacity":0.8,"strokeColor":"#a9abb1","lineWidth":1,"lineOpacity":0.8,"label":{"visible":false,"style":{"fill":"#a9abb1","fontSize":14,"textAnchor":"center","textOffset":[0,0]}},"minZoom":0,"maxZoom":24,"blend":"normal","showAdminLabel":true,"adminLabelColor":"#ffffff","adminLabelFontSize":14,"adminLabelStroke":"#606060","adminLabelStrokeWidth":0.5,"showNationalBorders":true,"coastBorderColor":"#606067","nationalBorderColor":"#606067","visible":true}}],"widgets":[{"id":"AnalysisLayout","type":"AnalysisLayout","metadata":{"name":"布局组件"},"properties":{"showFloatPanel":false,"showSidePanel":false,"showBottomPanel":false}},{"id":"AdministrativeSelectControl","type":"AdministrativeSelectControl","metadata":{"name":"行政区域选择器"},"properties":{"position":"lefttop"},"container":{"id":"AnalysisLayout","slot":"controls"}},{"id":"LocationSearchControl","type":"LocationSearchControl","metadata":{"name":"地名查询"},"properties":{"position":"lefttop"},"container":{"id":"AnalysisLayout","slot":"controls"}},{"id":"ZoomControl","type":"ZoomControl","metadata":{"name":"缩放器"},"properties":{"position":"bottomright"},"container":{"id":"AnalysisLayout","slot":"controls"}},{"id":"PropertiesPanel","type":"PropertiesPanel","metadata":{"name":"属性面板"},"properties":{"isOpen":false,"items":[]},"container":{"id":"AnalysisLayout","slot":"controls"}},{"id":"LayerPopup","type":"LayerPopup","metadata":{"name":"信息框"},"properties":{"isOpen":true,"trigger":"hover","items":[]},"container":{"id":"AnalysisLayout","slot":"controls"}},{"id":"FullscreenControl","type":"FullscreenControl","metadata":{"name":"全屏切换"},"properties":{"position":"topright"},"container":{"id":"AnalysisLayout","slot":"controls"}},{"id":"LegendWidget","type":"LegendWidget","metadata":{"name":"图例"},"properties":{"position":"topright"},"container":{"id":"AnalysisLayout","slot":"controls"}},{"id":"MapThemeControl","type":"MapThemeControl","metadata":{"name":"底图主题切换"},"properties":{"position":"bottomright"},"container":{"id":"AnalysisLayout","slot":"controls"}},{"id":"MouseLocationControl","type":"MouseLocationControl","metadata":{"name":"光标经纬度"},"properties":{"position":"leftbottom"},"container":{"id":"AnalysisLayout","slot":"controls"}},{"id":"ea0b8946-3e3d-4a87-a4a0-5dd08e7a2eed","type":"ExportImageControl","metadata":{"name":"地图截图"},"properties":{"position":"topright"},"container":{"id":"AnalysisLayout","slot":"controls"}}]}}
+        LI_Config.datasets = LI_Datasets
+        if (MAP_TOKEN) LI_Config.spec.map.config.token = MAP_TOKEN
+        </script>
+        <!-- Render App Component -->
+        <script>
+          const { ConfigProvider, theme } = window.antd;
+          const { LocationInsightApp, parseAssetPackage } = window.LISDK;
+          function LIAppElement() {
+            const { token } = theme.useToken();
+            const inheritedStyle = { color: token.colorText, fontSize: token.fontSize, fontFamily: token.fontFamily, lineHeight: token.lineHeight, background: token.colorBgLayout, }
+            const assets = ["LICoreAssets","LIAnalysisAssets"]
+              .map((global) => parseAssetPackage(global))
+              .filter((asset) => asset !== undefined);
+
+            return React.createElement(LocationInsightApp, {
+              assets,
+              config: LI_Config,
+              style: { position: "relative", width: "100%", height: "100%", ...inheritedStyle, },
+            });
+          };
+
+          const appTheme = {
+            algorithm: theme.darkAlgorithm,
+            token: {"colorPrimary":"#8274FF","colorTextBase":"rgba(255,255,255,0.85)","colorBgBase":"#0f0f13","colorInfo":"#8274FF","borderRadius":6},
+          }
+          const App = React.createElement(ConfigProvider, { theme: appTheme }, React.createElement(LIAppElement, null));
+
+          ReactDOM.render(App, document.getElementById("app"));
+        </script>
+
+        
+    
+      </body>
+    </html>
+  
