@@ -5,10 +5,13 @@
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
         <link rel="shortcut icon" href="https://mdn.alipayobjects.com/huamei_qa8qxu/afts/img/A*WCVLT5Dp5oYAAAAAAAAAAAAADmJ7AQ/original">
-        <title>CII_province</title>
+        <title>CII_省级 - L7VP Embedded App</title>
+        <!-- Map Token: 底图服务 token 设置 -->
         <script>
+          // 高德或 Mapbox 的 token，默认使用内置的 token，生产环境务必自行注册 Token 确保服务稳定!
           const MAP_TOKEN = '4e29397070fb36210569bf0d6cd94823';
-          window._AMapSecurityConfig = { securityJsCode: '76a7861a23296b5ab3227d3afaa8141c'} 
+          // 如果是高德，在2021年12月02日申请以后的 key 需要配合您的安全密钥一起使用
+          window._AMapSecurityConfig = { securityJsCode: '76a7861a23296b5ab3227d3afaa8141c'} // 替换为您申请的安全密钥！
         </script>
 
         <!-- antd css -->
@@ -22,18 +25,18 @@
 
         <!-- Load React -->
         <script src="https://gw.alipayobjects.com/os/lib/react/18.2.0/umd/react.production.min.js" crossorigin></script>
-    <script src="https://gw.alipayobjects.com/os/lib/react-dom/18.2.0/umd/react-dom.production.min.js" crossorigin></script>
+    <script src="https://gw.alipayobjects.com/os/lib/react-dom/18.2.0/umd/react-dom.production.min.js" crossorigin></script>
 
         <!-- Load antd/icons -->
         <script src="https://gw.alipayobjects.com/os/lib/dayjs/1.11.10/dayjs.min.js" crossorigin></script>
-    <script src="https://gw.alipayobjects.com/os/lib/antd/5.9.2/dist/antd.min.js" crossorigin></script>
-    <script src="https://gw.alipayobjects.com/os/lib/ant-design/icons/5.2.5/dist/index.umd.min.js" crossorigin></script>
+    <script src="https://gw.alipayobjects.com/os/lib/antd/5.9.2/dist/antd.min.js" crossorigin></script>
+    <script src="https://gw.alipayobjects.com/os/lib/ant-design/icons/5.2.5/dist/index.umd.min.js" crossorigin></script>
 
         <!-- Load turf/mapbox/L7/L7Draw/LarkMap -->
         <script src="https://gw.alipayobjects.com/os/lib/turf/turf/6.5.0/turf.min.js" crossorigin></script>
         <script src="https://gw.alipayobjects.com/os/lib/mapbox-gl/1.13.3/dist/mapbox-gl.js" crossorigin></script>
-    <script src="https://registry.npmmirror.com/@antv/l7/2.22.0/files/dist/l7.js" crossorigin></script>
-    <script src="https://registry.npmmirror.com/@antv/l7-draw/3.1.3/files/dist/l7-draw.min.js" crossorigin></script>
+    <script src="https://registry.npmmirror.com/@antv/l7/2.22.0/files/dist/l7.js" crossorigin></script>
+    <script src="https://registry.npmmirror.com/@antv/l7-draw/3.1.3/files/dist/l7-draw.min.js" crossorigin></script>
         <script src="https://registry.npmmirror.com/@antv/larkmap/1.4.16/files/dist/larkmap.min.js" crossorigin></script>
 
         <!-- Load LI SDK -->
@@ -41,15 +44,15 @@
 
         <!-- Load formily: for dependencies some LI asset attribute -->
         <script src="https://gw.alipayobjects.com/os/lib/formily/reactive/2.2.29/dist/formily.reactive.umd.production.js" crossorigin></script>
-    <script src="https://gw.alipayobjects.com/os/lib/formily/path/2.2.29/dist/formily.path.umd.production.js" crossorigin></script>
-    <script src="https://gw.alipayobjects.com/os/lib/formily/shared/2.2.29/dist/formily.shared.umd.production.js" crossorigin></script>
-    <script src="https://gw.alipayobjects.com/os/lib/formily/validator/2.2.29/dist/formily.validator.umd.production.js" crossorigin></script>
-    <script src="https://gw.alipayobjects.com/os/lib/formily/core/2.2.29/dist/formily.core.umd.production.js" crossorigin></script>
-    <script src="https://gw.alipayobjects.com/os/lib/formily/json-schema/2.2.29/dist/formily.json-schema.umd.production.js" crossorigin></script>
-    <script src="https://gw.alipayobjects.com/os/lib/react-is/17.0.2/umd/react-is.production.min.js" crossorigin></script>
-    <script src="https://gw.alipayobjects.com/os/lib/formily/reactive-react/2.2.29/dist/formily.reactive-react.umd.production.js" crossorigin></script>
-    <script src="https://gw.alipayobjects.com/os/lib/formily/react/2.2.29/dist/formily.react.umd.production.js" crossorigin></script>
-    <script src="https://gw.alipayobjects.com/os/lib/formily/antd-v5/1.1.2/dist/formily.antd-v5.umd.production.js" crossorigin></script>
+    <script src="https://gw.alipayobjects.com/os/lib/formily/path/2.2.29/dist/formily.path.umd.production.js" crossorigin></script>
+    <script src="https://gw.alipayobjects.com/os/lib/formily/shared/2.2.29/dist/formily.shared.umd.production.js" crossorigin></script>
+    <script src="https://gw.alipayobjects.com/os/lib/formily/validator/2.2.29/dist/formily.validator.umd.production.js" crossorigin></script>
+    <script src="https://gw.alipayobjects.com/os/lib/formily/core/2.2.29/dist/formily.core.umd.production.js" crossorigin></script>
+    <script src="https://gw.alipayobjects.com/os/lib/formily/json-schema/2.2.29/dist/formily.json-schema.umd.production.js" crossorigin></script>
+    <script src="https://gw.alipayobjects.com/os/lib/react-is/17.0.2/umd/react-is.production.min.js" crossorigin></script>
+    <script src="https://gw.alipayobjects.com/os/lib/formily/reactive-react/2.2.29/dist/formily.reactive-react.umd.production.js" crossorigin></script>
+    <script src="https://gw.alipayobjects.com/os/lib/formily/react/2.2.29/dist/formily.react.umd.production.js" crossorigin></script>
+    <script src="https://gw.alipayobjects.com/os/lib/formily/antd-v5/1.1.2/dist/formily.antd-v5.umd.production.js" crossorigin></script>
 
         <!-- Load LI Assets CSS -->
         
@@ -71,15 +74,17 @@
 
         <!-- Load LI Assets -->
         <script src="https://registry.npmmirror.com/@antv/li-core-assets/1.3.5/files/dist/umd/li-core-assets.min.js" crossorigin></script>
-    <script src="https://registry.npmmirror.com/@antv/li-analysis-assets/1.8.1/files/dist/umd/li-analysis-assets.min.js" crossorigin></script>
+    <script src="https://registry.npmmirror.com/@antv/li-analysis-assets/1.8.1/files/dist/umd/li-analysis-assets.min.js" crossorigin></script>
+    <script src="https://registry.npmmirror.com/@antv/li-sam-assets/0.1.3/files/dist/li-sam-assets.min.js" crossorigin></script>
+    <script src="https://registry.npmmirror.com/@lvisei/li-zelda-assets/0.x/files/dist/li-zelda-assets.min.js" crossorigin></script>
 
         <!-- LI Datasets -->
         <script>
-          const LI_Datasets = [{"id":"b7335d9d-4b42-48d3-b4f9-b55db2ed6324","metadata":{"name":"省级CII-rank"},"data":[{"pro_name":"北京市","avg_score":100,"en_name":"Beijing","en_short":"BJ"},{"pro_name":"上海市","avg_score":80.68,"en_name":"Shanghai","en_short":"SH"},{"pro_name":"香港特别行政区","avg_score":64.01,"en_name":"Hong Kong","en_short":"HK"},{"pro_name":"重庆市","avg_score":61.38,"en_name":"Chongqing","en_short":"CQ"},{"pro_name":"天津市","avg_score":59.42,"en_name":"Tianjin","en_short":"TJ "},{"pro_name":"澳门特别行政区","avg_score":57.27,"en_name":"Macau","en_short":"MO"},{"pro_name":"台湾省","avg_score":56.68,"en_name":"Taiwan","en_short":"TW"},{"pro_name":"浙江省","avg_score":45.99,"en_name":"Zhejiang","en_short":"ZJ"},{"pro_name":"广东省","avg_score":43.8,"en_name":"Guangdong","en_short":"GD"},{"pro_name":"江苏省","avg_score":41.37,"en_name":"Jiangsu","en_short":"JS"},{"pro_name":"四川省","avg_score":35.46,"en_name":"Sichuan","en_short":"SC"},{"pro_name":"安徽省","avg_score":34.24,"en_name":"Anhui","en_short":"AH"},{"pro_name":"陕西省","avg_score":33.55,"en_name":"Shaanxi","en_short":"SN"},{"pro_name":"福建省","avg_score":32.96,"en_name":"Fujian","en_short":"FJ"},{"pro_name":"河北省","avg_score":32.24,"en_name":"Hebei","en_short":"HE"},{"pro_name":"山东省","avg_score":32.1,"en_name":"Shandong","en_short":"SD"},{"pro_name":"河南省","avg_score":29.27,"en_name":"Henan","en_short":"HA"},{"pro_name":"云南省","avg_score":29.09,"en_name":"Yunnan","en_short":"YN"},{"pro_name":"海南省","avg_score":27.25,"en_name":"Hainan","en_short":"HI"},{"pro_name":"湖北省","avg_score":25.81,"en_name":"Hubei","en_short":"HB"},{"pro_name":"江西省","avg_score":25.38,"en_name":"Jiangxi","en_short":"JX"},{"pro_name":"甘肃省","avg_score":24.85,"en_name":"Gansu","en_short":"GS"},{"pro_name":"湖南省","avg_score":24.05,"en_name":"Hunan","en_short":"HN"},{"pro_name":"贵州省","avg_score":23.33,"en_name":"Guizhou","en_short":"GZ"},{"pro_name":"内蒙古自治区","avg_score":23.28,"en_name":"Inner Mongolia","en_short":"NM"},{"pro_name":"山西省","avg_score":22.84,"en_name":"Shanxi","en_short":"SX"},{"pro_name":"辽宁省","avg_score":22.38,"en_name":"Liaoning","en_short":"LN"},{"pro_name":"黑龙江省","avg_score":21.85,"en_name":"Heilongjiang","en_short":"HL"},{"pro_name":"广西壮族自治区","avg_score":21.32,"en_name":"Guangxi","en_short":"GX"},{"pro_name":"西藏自治区","avg_score":20.45,"en_name":"Xizang","en_short":"XZ"},{"pro_name":"吉林省","avg_score":20.37,"en_name":"Jilin","en_short":"JL"},{"pro_name":"宁夏回族自治区","avg_score":19.83,"en_name":"Ningxia","en_short":"NX"},{"pro_name":"青海省","avg_score":19.04,"en_name":"Qinghai","en_short":"QH"},{"pro_name":"新疆维吾尔自治区","avg_score":16.77,"en_name":"Xinjiang","en_short":"XJ"}],"type":"local","columns":[{"type":"string","name":"pro_name"},{"type":"number","name":"avg_score"},{"type":"string","name":"en_name"},{"type":"string","name":"en_short"}]}]
+          const LI_Datasets = [{"id":"d6846c2a-367e-43cc-858d-2557618fa545","metadata":{"name":"省级CII-rank"},"data":[{"pro_name":"北京市","ARI":100,"en_name":"Beijing","pro_en_short":"BJ","ARI_median":100},{"pro_name":"上海市","ARI":80.68299989540617,"en_name":"Shanghai","pro_en_short":"SH","ARI_median":80.68},{"pro_name":"香港特别行政区","ARI":64.00915557445816,"en_name":"Hong Kong","pro_en_short":"HK","ARI_median":64.01},{"pro_name":"重庆市","ARI":61.38419204807926,"en_name":"Chongqing","pro_en_short":"CQ","ARI_median":61.38},{"pro_name":"天津市","ARI":59.42439900288774,"en_name":"Tianjin","pro_en_short":"TJ ","ARI_median":59.42},{"pro_name":"澳门特别行政区","ARI":57.26635722773723,"en_name":"Macau","pro_en_short":"MO","ARI_median":57.27},{"pro_name":"台湾省","ARI":56.677534747845705,"en_name":"Taiwan","pro_en_short":"TW","ARI_median":56.68},{"pro_name":"浙江省","ARI":53.7478703469508,"en_name":"Zhejiang","pro_en_short":"ZJ","ARI_median":46.68},{"pro_name":"江苏省","ARI":32.92572576670677,"en_name":"Jiangsu","pro_en_short":"JS","ARI_median":46.3},{"pro_name":"广东省","ARI":44.90158183767913,"en_name":"Guangdong","pro_en_short":"GD","ARI_median":44.9},{"pro_name":"安徽省","ARI":25.01763302245504,"en_name":"Anhui","pro_en_short":"AH","ARI_median":33.76},{"pro_name":"四川省","ARI":33.4620105011984,"en_name":"Sichuan","pro_en_short":"SC","ARI_median":33.64},{"pro_name":"陕西省","ARI":30.14858094237661,"en_name":"Shaanxi","pro_en_short":"SN","ARI_median":31.84},{"pro_name":"河北省","ARI":31.556456037222468,"en_name":"Hebei","pro_en_short":"HE","ARI_median":31.56},{"pro_name":"福建省","ARI":17.04542896772361,"en_name":"Fujian","pro_en_short":"FJ","ARI_median":31.09},{"pro_name":"山东省","ARI":27.74245499595209,"en_name":"Shandong","pro_en_short":"SD","ARI_median":29.23},{"pro_name":"海南省","ARI":50.39845725167821,"en_name":"Hainan","pro_en_short":"HI","ARI_median":26.27},{"pro_name":"云南省","ARI":21.452478022608616,"en_name":"Yunnan","pro_en_short":"YN","ARI_median":25.23},{"pro_name":"河南省","ARI":36.717360583808215,"en_name":"Henan","pro_en_short":"HA","ARI_median":23.6},{"pro_name":"湖南省","ARI":27.08355867102573,"en_name":"Hunan","pro_en_short":"HN","ARI_median":22.49},{"pro_name":"湖北省","ARI":21.98511307537111,"en_name":"Hubei","pro_en_short":"HB","ARI_median":21.99},{"pro_name":"甘肃省","ARI":18.072014319256045,"en_name":"Gansu","pro_en_short":"GS","ARI_median":21.4},{"pro_name":"黑龙江省","ARI":18.483237664470742,"en_name":"Heilongjiang","pro_en_short":"HL","ARI_median":20.78},{"pro_name":"贵州省","ARI":12.595096654934402,"en_name":"Guizhou","pro_en_short":"GZ","ARI_median":19.49},{"pro_name":"内蒙古自治区","ARI":11.13469414965985,"en_name":"Inner Mongolia","pro_en_short":"NM","ARI_median":18.93},{"pro_name":"西藏自治区","ARI":17.29968816736902,"en_name":"Xizang","pro_en_short":"XZ","ARI_median":18.93},{"pro_name":"江西省","ARI":18.643611438603266,"en_name":"Jiangxi","pro_en_short":"JX","ARI_median":18.76},{"pro_name":"青海省","ARI":20.41799370374916,"en_name":"Qinghai","pro_en_short":"QH","ARI_median":17.86},{"pro_name":"辽宁省","ARI":17.57339428131928,"en_name":"Liaoning","pro_en_short":"LN","ARI_median":17.57},{"pro_name":"山西省","ARI":15.011196112388353,"en_name":"Shanxi","pro_en_short":"SX","ARI_median":17.27},{"pro_name":"吉林省","ARI":11.218354823545075,"en_name":"Jilin","pro_en_short":"JL","ARI_median":16.94},{"pro_name":"广西壮族自治区","ARI":11.693106411735323,"en_name":"Guangxi","pro_en_short":"GX","ARI_median":15.75},{"pro_name":"宁夏回族自治区","ARI":8.546655643336038,"en_name":"Ningxia","pro_en_short":"NX","ARI_median":14.89},{"pro_name":"新疆维吾尔自治区","ARI":9.909836540193185,"en_name":"Xinjiang","pro_en_short":"XJ","ARI_median":13.43}],"type":"local","columns":[{"type":"string","name":"pro_name"},{"type":"number","name":"ARI"},{"type":"string","name":"en_name"},{"type":"string","name":"pro_en_short"},{"type":"number","name":"ARI_median"}]}]
         </script>
         <!-- LI ApplicationConfig -->
         <script>
-        const LI_Config = {"version":"v0.1","metadata":{"name":"CII_省级","description":"无描述信息","assetPackageIds":["@antv/li-core-assets","@antv/li-analysis-assets"],"creatTime":"2024-6-14 14:29:10"},"datasets":[],"spec":{"map":{"basemap":"Gaode","config":{"zoom":3,"center":[120.153576,30.287459],"pitch":0,"bearing":0,"style":"dark","WebGLParams":{"preserveDrawingBuffer":true},"token":"f0230f884bbd54e2913c890cdf45aa7e"},"logoPosition":"leftbottom"},"layers":[{"id":"ChinaAdminLayer_8dbf12af-5a77-47ae-a13d-b72abcd51356","type":"ChinaAdminLayer","metadata":{"name":"省级CII-rank图层"},"sourceConfig":{"countryAdConfig":{"countryGranularity":"province","countryAdType":"adname","countryAdField":"pro_name"},"datasetId":"b7335d9d-4b42-48d3-b4f9-b55db2ed6324"},"visConfig":{"fillColor":{"field":"avg_score","value":["#fee5d9","#fcae91","#fb6a4a","#de2d26","#a50f15"],"scale":{"type":"quantile"},"isReversed":false},"opacity":0.8,"strokeColor":"#a9abb1","lineWidth":1,"lineOpacity":0.8,"label":{"visible":false,"style":{"fill":"#a9abb1","fontSize":14,"textAnchor":"center","textOffset":[0,0]}},"minZoom":0,"maxZoom":24,"blend":"normal","showAdminLabel":true,"adminLabelColor":"#ffffff","adminLabelFontSize":14,"adminLabelStroke":"#606060","adminLabelStrokeWidth":0.5,"showNationalBorders":true,"coastBorderColor":"#606067","nationalBorderColor":"#606067","visible":true}}],"widgets":[{"id":"AnalysisLayout","type":"AnalysisLayout","metadata":{"name":"布局组件"},"properties":{"showFloatPanel":false,"showSidePanel":false,"showBottomPanel":false}},{"id":"AdministrativeSelectControl","type":"AdministrativeSelectControl","metadata":{"name":"行政区域选择器"},"properties":{"position":"lefttop"},"container":{"id":"AnalysisLayout","slot":"controls"}},{"id":"LocationSearchControl","type":"LocationSearchControl","metadata":{"name":"地名查询"},"properties":{"position":"lefttop"},"container":{"id":"AnalysisLayout","slot":"controls"}},{"id":"ZoomControl","type":"ZoomControl","metadata":{"name":"缩放器"},"properties":{"position":"bottomright"},"container":{"id":"AnalysisLayout","slot":"controls"}},{"id":"PropertiesPanel","type":"PropertiesPanel","metadata":{"name":"属性面板"},"properties":{"isOpen":false,"items":[]},"container":{"id":"AnalysisLayout","slot":"controls"}},{"id":"LayerPopup","type":"LayerPopup","metadata":{"name":"信息框"},"properties":{"isOpen":true,"trigger":"hover","items":[]},"container":{"id":"AnalysisLayout","slot":"controls"}},{"id":"FullscreenControl","type":"FullscreenControl","metadata":{"name":"全屏切换"},"properties":{"position":"topright"},"container":{"id":"AnalysisLayout","slot":"controls"}},{"id":"LegendWidget","type":"LegendWidget","metadata":{"name":"图例"},"properties":{"position":"topright"},"container":{"id":"AnalysisLayout","slot":"controls"}},{"id":"MapThemeControl","type":"MapThemeControl","metadata":{"name":"底图主题切换"},"properties":{"position":"bottomright"},"container":{"id":"AnalysisLayout","slot":"controls"}},{"id":"MouseLocationControl","type":"MouseLocationControl","metadata":{"name":"光标经纬度"},"properties":{"position":"leftbottom"},"container":{"id":"AnalysisLayout","slot":"controls"}},{"id":"ea0b8946-3e3d-4a87-a4a0-5dd08e7a2eed","type":"ExportImageControl","metadata":{"name":"地图截图"},"properties":{"position":"topright"},"container":{"id":"AnalysisLayout","slot":"controls"}}]}}
+        const LI_Config = {"version":"v0.1","metadata":{"name":"CII_省级","description":"无描述信息","creatTime":"2024-8-20 11:42:29"},"datasets":[],"spec":{"map":{"basemap":"Gaode","config":{"zoom":3,"center":[120.153576,30.287459],"pitch":0,"bearing":0,"style":"dark","WebGLParams":{"preserveDrawingBuffer":true},"token":"f0230f884bbd54e2913c890cdf45aa7e"},"logoPosition":"leftbottom"},"layers":[{"id":"ChinaAdminLayer_c446890c-e297-48b5-a4b1-2a8c4846d1de","type":"ChinaAdminLayer","metadata":{"name":"省级CII-rank图层"},"sourceConfig":{"countryAdConfig":{"countryGranularity":"province","countryAdType":"adname","countryAdField":"pro_name"},"datasetId":"d6846c2a-367e-43cc-858d-2557618fa545"},"visConfig":{"fillColor":{"field":"ARI_median","value":["#c9e5cd","#97d0aa","#6eba81","#50936c","#2c5245"],"scale":{"type":"threshold","domain":[20,40,60,80],"unknown":"#f000"},"isReversed":false},"opacity":1,"strokeColor":"#a9abb1","lineWidth":1,"lineOpacity":0.8,"label":{"visible":false,"style":{"fill":"#a9abb1","fontSize":14,"textAnchor":"center","textOffset":[0,0]}},"minZoom":0,"maxZoom":24,"blend":"normal","showAdminLabel":true,"adminLabelColor":"#000000","adminLabelFontSize":14,"adminLabelStroke":"#606060","adminLabelStrokeWidth":0.5,"showNationalBorders":true,"coastBorderColor":"#606067","nationalBorderColor":"#606067","visible":true}}],"widgets":[{"id":"AnalysisLayout","type":"AnalysisLayout","metadata":{"name":"布局组件"},"properties":{"showFloatPanel":false,"showSidePanel":false,"showBottomPanel":false}},{"id":"AdministrativeSelectControl","type":"AdministrativeSelectControl","metadata":{"name":"行政区域选择器"},"properties":{"position":"lefttop"},"container":{"id":"AnalysisLayout","slot":"controls"}},{"id":"LocationSearchControl","type":"LocationSearchControl","metadata":{"name":"地名查询"},"properties":{"position":"lefttop"},"container":{"id":"AnalysisLayout","slot":"controls"}},{"id":"ZoomControl","type":"ZoomControl","metadata":{"name":"缩放器"},"properties":{"position":"bottomright"},"container":{"id":"AnalysisLayout","slot":"controls"}},{"id":"PropertiesPanel","type":"PropertiesPanel","metadata":{"name":"属性面板"},"properties":{"isOpen":false,"items":[]},"container":{"id":"AnalysisLayout","slot":"controls"}},{"id":"LayerPopup","type":"LayerPopup","metadata":{"name":"信息框"},"properties":{"isOpen":true,"trigger":"hover","items":[]},"container":{"id":"AnalysisLayout","slot":"controls"}},{"id":"FullscreenControl","type":"FullscreenControl","metadata":{"name":"全屏切换"},"properties":{"position":"topright"},"container":{"id":"AnalysisLayout","slot":"controls"}},{"id":"LegendWidget","type":"LegendWidget","metadata":{"name":"图例"},"properties":{"position":"topright"},"container":{"id":"AnalysisLayout","slot":"controls"}},{"id":"MapThemeControl","type":"MapThemeControl","metadata":{"name":"底图主题切换"},"properties":{"position":"bottomright"},"container":{"id":"AnalysisLayout","slot":"controls"}},{"id":"MouseLocationControl","type":"MouseLocationControl","metadata":{"name":"光标经纬度"},"properties":{"position":"leftbottom"},"container":{"id":"AnalysisLayout","slot":"controls"}},{"id":"ea0b8946-3e3d-4a87-a4a0-5dd08e7a2eed","type":"ExportImageControl","metadata":{"name":"地图截图"},"properties":{"position":"topright"},"container":{"id":"AnalysisLayout","slot":"controls"}}]}}
         LI_Config.datasets = LI_Datasets
         if (MAP_TOKEN) LI_Config.spec.map.config.token = MAP_TOKEN
         </script>
@@ -90,7 +95,7 @@
           function LIAppElement() {
             const { token } = theme.useToken();
             const inheritedStyle = { color: token.colorText, fontSize: token.fontSize, fontFamily: token.fontFamily, lineHeight: token.lineHeight, background: token.colorBgLayout, }
-            const assets = ["LICoreAssets","LIAnalysisAssets"]
+            const assets = ["LICoreAssets","LIAnalysisAssets","SAMAssets","LIZeldaAssets"]
               .map((global) => parseAssetPackage(global))
               .filter((asset) => asset !== undefined);
 
@@ -111,6 +116,24 @@
         </script>
 
         
+    <!-- Google Analytics，用于调研分析 L7VP 使用情况，可以删掉 -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-N97Y9S4GLG" crossorigin></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-N97Y9S4GLG', { app_type: 'l7vp-export-app' });
+    </script>
+    <!-- Baidu tongji，用于调研分析 L7VP 使用情况，可以删掉 -->
+    <script>
+      var _hmt = _hmt || [];
+      (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?c2b82edd7b45aa4aa6f9f31c1155db0f";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+      })()
+    </script>
     
       </body>
     </html>
