@@ -1,0 +1,92 @@
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 640 480">
+<rect width="640" height="480" x="0" y="0" fill="rgb(255,255,255)"></rect>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="-6" transform="matrix(0,-1,1,0,20,221)" fill="#333">季度</text>
+<path d="M60.5 405L60.5 37" fill="none" stroke="#333" stroke-linecap="round" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(342.5 435)" fill="#333">销量</text>
+<path d="M60 405.5L625 405.5" fill="none" stroke="#333" stroke-linecap="round" class="zr1-cls-0"></path>
+<path d="M60 405.5L55 405.5" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M60 313.5L55 313.5" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M60 221.5L55 221.5" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M60 129.5L55 129.5" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M60 37.5L55 37.5" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M60.5 405L60.5 410" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M140.5 405L140.5 410" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M221.5 405L221.5 410" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M302.5 405L302.5 410" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M383.5 405L383.5 410" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M463.5 405L463.5 410" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M544.5 405L544.5 410" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M625.5 405L625.5 410" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(52 359)" fill="#333">Q1</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(52 267)" fill="#333">Q2</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(52 175)" fill="#333">Q3</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(52 83)" fill="#333">Q4</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(60 413)" fill="#333">0</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(140.7143 413)" fill="#333">100</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(221.4286 413)" fill="#333">200</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(302.1429 413)" fill="#333">300</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(382.8571 413)" fill="#333">400</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(463.5714 413)" fill="#333">500</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(544.2857 413)" fill="#333">600</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(625 413)" fill="#333">700</text>
+<path d="M60 327.26l403.5714 0l0 63.48l-403.5714 0Z" fill="#e01f54" class="zr1-cls-1"></path>
+<path d="M60 235.26l121.0714 0l0 63.48l-121.0714 0Z" fill="#e01f54" class="zr1-cls-1"></path>
+<path d="M60 143.26l145.2857 0l0 63.48l-145.2857 0Z" fill="#e01f54" class="zr1-cls-1"></path>
+<path d="M60 51.26l161.4286 0l0 63.48l-161.4286 0Z" fill="rgb(224,31,84)" class="zr1-cls-1"></path>
+<path d="M463.5714 327.26l64.5714 0l0 63.48l-64.5714 0Z" fill="#001852" class="zr1-cls-2"></path>
+<path d="M181.0714 235.26l72.6429 0l0 63.48l-72.6429 0Z" fill="#001852" class="zr1-cls-2"></path>
+<path d="M205.2857 143.26l88.7857 0l0 63.48l-88.7857 0Z" fill="#001852" class="zr1-cls-2"></path>
+<path d="M221.4286 51.26l104.9286 0l0 63.48l-104.9286 0Z" fill="rgb(0,24,82)" class="zr1-cls-2"></path>
+<path d="M528.1429 327.26l48.4286 0l0 63.48l-48.4286 0Z" fill="#efe1a9" class="zr1-cls-3"></path>
+<path d="M253.7143 235.26l56.5 0l0 63.48l-56.5 0Z" fill="#efe1a9" class="zr1-cls-3"></path>
+<path d="M294.0714 143.26l68.6071 0l0 63.48l-68.6071 0Z" fill="#efe1a9" class="zr1-cls-3"></path>
+<path d="M326.3571 51.26l76.6786 0l0 63.48l-76.6786 0Z" fill="rgb(239,225,169)" class="zr1-cls-3"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(261.7857 359)" fill="#eee" stroke="#e01f54" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">500</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(120.5357 267)" fill="#eee" stroke="#e01f54" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">150</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(132.6429 175)" fill="#eee" stroke="#e01f54" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">180</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(140.7143 83)" fill="#eee" stroke="rgb(224,31,84)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">200</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(495.8571 359)" fill="#ccc" stroke="#001852" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">80</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(217.3929 267)" fill="#ccc" stroke="#001852" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">90</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(249.6786 175)" fill="#ccc" stroke="#001852" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">110</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(273.8929 83)" fill="#ccc" stroke="rgb(0,24,82)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">130</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(552.3571 359)" fill="#333">60</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(281.9643 267)" fill="#333">70</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(328.375 175)" fill="#333">85</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(364.6964 83)" fill="#333">95</text>
+<path d="M-5 -5l212.744 0l0 24l-212.744 0Z" transform="translate(218.628 456)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#b7b9be" stroke-width="0" class="zr1-cls-0"></path>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(218.628 456)" fill="#e01f54" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="30" y="7" transform="translate(218.628 456)" fill="#333333">产品A</text>
+<path d="M0 0l61.884 0l0 14l-61.884 0Z" transform="translate(218.628 456)" fill="none" class="zr1-cls-4"></path>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(288.512 456)" fill="#001852" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="30" y="7" transform="translate(288.512 456)" fill="#333333">产品B</text>
+<path d="M0 0l62.124 0l0 14l-62.124 0Z" transform="translate(288.512 456)" fill="none" class="zr1-cls-4"></path>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(358.636 456)" fill="#efe1a9" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="30" y="7" transform="translate(358.636 456)" fill="#333333">产品C</text>
+<path d="M0 0l62.736 0l0 14l-62.736 0Z" transform="translate(358.636 456)" fill="none" class="zr1-cls-4"></path>
+<path d="M-61 -5l122 0l0 24l-122 0Z" transform="translate(320 10)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#3c3c41" stroke-width="0" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:14px;font-family:sans-serif;font-weight:bold;" y="7" transform="translate(320 10)" fill="#333333">季度产品销量堆叠</text>
+<style ><![CDATA[
+.zr1-cls-0:hover {
+pointer-events:none;
+}
+.zr1-cls-1:hover {
+cursor:pointer;
+fill:rgba(246,34,92,1);
+}
+.zr1-cls-2:hover {
+cursor:pointer;
+fill:rgba(0,26,90,1);
+}
+.zr1-cls-3:hover {
+cursor:pointer;
+fill:rgba(255,247,185,1);
+}
+.zr1-cls-4:hover {
+cursor:pointer;
+fill:rgba(0,0,0,0);
+}
+
+]]>
+
+</style>
+</svg>

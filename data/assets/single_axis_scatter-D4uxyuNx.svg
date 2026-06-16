@@ -1,0 +1,150 @@
+<svg width="640" height="400" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 640 400">
+<rect width="640" height="400" x="0" y="0" fill="rgb(255,255,255)"></rect>
+<path d="M32 100.5L608 100.5" fill="none" stroke="#333" stroke-linecap="round" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;font-weight:bold;" y="6" transform="translate(320 50)" fill="#333">Beijing</text>
+<path d="M32 180.5L608 180.5" fill="none" stroke="#333" stroke-linecap="round" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;font-weight:bold;" y="6" transform="translate(320 130)" fill="#333">Shanghai</text>
+<path d="M32 260.5L608 260.5" fill="none" stroke="#333" stroke-linecap="round" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;font-weight:bold;" y="6" transform="translate(320 210)" fill="#333">Guangzhou</text>
+<path d="M32 340.5L608 340.5" fill="none" stroke="#333" stroke-linecap="round" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;font-weight:bold;" y="6" transform="translate(320 290)" fill="#333">Shenzhen</text>
+<path d="M32.5 100L32.5 106" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M147.5 100L147.5 106" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M262.5 100L262.5 106" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M377.5 100L377.5 106" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M493.5 100L493.5 106" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M608.5 100L608.5 106" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M32.5 180L32.5 186" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M147.5 180L147.5 186" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M262.5 180L262.5 186" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M377.5 180L377.5 186" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M493.5 180L493.5 186" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M608.5 180L608.5 186" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M32.5 260L32.5 266" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M147.5 260L147.5 266" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M262.5 260L262.5 266" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M377.5 260L377.5 266" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M493.5 260L493.5 266" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M608.5 260L608.5 266" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M32.5 340L32.5 346" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M147.5 340L147.5 346" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M262.5 340L262.5 346" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M377.5 340L377.5 346" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M493.5 340L493.5 346" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M608.5 340L608.5 346" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(32 108)" fill="#333">8</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(147.2 108)" fill="#333">9</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(262.4 108)" fill="#333">10</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(377.6 108)" fill="#333">18</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(492.8 108)" fill="#333">19</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(608 108)" fill="#333">20</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(32 188)" fill="#333">8</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(147.2 188)" fill="#333">9</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(262.4 188)" fill="#333">10</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(377.6 188)" fill="#333">18</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(492.8 188)" fill="#333">19</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(608 188)" fill="#333">20</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(32 268)" fill="#333">8</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(147.2 268)" fill="#333">9</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(262.4 268)" fill="#333">10</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(377.6 268)" fill="#333">18</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(492.8 268)" fill="#333">19</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(608 268)" fill="#333">20</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(32 348)" fill="#333">8</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(147.2 348)" fill="#333">9</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(262.4 348)" fill="#333">10</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(377.6 348)" fill="#333">18</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(492.8 348)" fill="#333">19</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(608 348)" fill="#333">20</text>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(9.688,0,0,9.688,32,80)" fill="#e01f54" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-1"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(16.25,0,0,16.25,147.2,80)" fill="#e01f54" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-1"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(8.594,0,0,8.594,262.4,80)" fill="#e01f54" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-1"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(22.813,0,0,22.813,377.6,80)" fill="#e01f54" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-1"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(14.063,0,0,14.063,492.8,80)" fill="#e01f54" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-1"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(7.5,0,0,7.5,608,80)" fill="#e01f54" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-1"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(11.875,0,0,11.875,32,160)" fill="#001852" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-2"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(18.438,0,0,18.438,147.2,160)" fill="#001852" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-2"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(10.781,0,0,10.781,262.4,160)" fill="#001852" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-2"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(16.25,0,0,16.25,377.6,160)" fill="#001852" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-2"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(25,0,0,25,492.8,160)" fill="#001852" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-2"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(9.688,0,0,9.688,608,160)" fill="#001852" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-2"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(8.594,0,0,8.594,32,240)" fill="#efe1a9" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-3"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(15.156,0,0,15.156,147.2,240)" fill="#efe1a9" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-3"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(9.688,0,0,9.688,262.4,240)" fill="#efe1a9" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-3"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(7.5,0,0,7.5,377.6,240)" fill="#efe1a9" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-3"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(11.875,0,0,11.875,492.8,240)" fill="#efe1a9" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-3"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(7.5,0,0,7.5,608,240)" fill="#efe1a9" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-3"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(14.063,0,0,14.063,32,320)" fill="#b8d2c7" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-4"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(17.344,0,0,17.344,147.2,320)" fill="#b8d2c7" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-4"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(11.875,0,0,11.875,262.4,320)" fill="#b8d2c7" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-4"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(9.688,0,0,9.688,377.6,320)" fill="#b8d2c7" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-4"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(11.875,0,0,11.875,492.8,320)" fill="#b8d2c7" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-4"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(22.813,0,0,22.813,608,320)" fill="#b8d2c7" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-4"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(32 80)" fill="#eee" fill-opacity="0.8" stroke="#e01f54" stroke-width="2" paint-order="stroke" stroke-opacity="0.8" stroke-miterlimit="2">20</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(147.2 80)" fill="#eee" fill-opacity="0.8" stroke="#e01f54" stroke-width="2" paint-order="stroke" stroke-opacity="0.8" stroke-miterlimit="2">50</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(262.4 80)" fill="#eee" fill-opacity="0.8" stroke="#e01f54" stroke-width="2" paint-order="stroke" stroke-opacity="0.8" stroke-miterlimit="2">15</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(377.6 80)" fill="#eee" fill-opacity="0.8" stroke="#e01f54" stroke-width="2" paint-order="stroke" stroke-opacity="0.8" stroke-miterlimit="2">80</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(492.8 80)" fill="#eee" fill-opacity="0.8" stroke="#e01f54" stroke-width="2" paint-order="stroke" stroke-opacity="0.8" stroke-miterlimit="2">40</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(608 80)" fill="#eee" fill-opacity="0.8" stroke="#e01f54" stroke-width="2" paint-order="stroke" stroke-opacity="0.8" stroke-miterlimit="2">10</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(32 160)" fill="#ccc" fill-opacity="0.8" stroke="#001852" stroke-width="2" paint-order="stroke" stroke-opacity="0.8" stroke-miterlimit="2">30</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(147.2 160)" fill="#ccc" fill-opacity="0.8" stroke="#001852" stroke-width="2" paint-order="stroke" stroke-opacity="0.8" stroke-miterlimit="2">60</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(262.4 160)" fill="#ccc" fill-opacity="0.8" stroke="#001852" stroke-width="2" paint-order="stroke" stroke-opacity="0.8" stroke-miterlimit="2">25</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(377.6 160)" fill="#ccc" fill-opacity="0.8" stroke="#001852" stroke-width="2" paint-order="stroke" stroke-opacity="0.8" stroke-miterlimit="2">50</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(492.8 160)" fill="#ccc" fill-opacity="0.8" stroke="#001852" stroke-width="2" paint-order="stroke" stroke-opacity="0.8" stroke-miterlimit="2">90</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(608 160)" fill="#ccc" fill-opacity="0.8" stroke="#001852" stroke-width="2" paint-order="stroke" stroke-opacity="0.8" stroke-miterlimit="2">20</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(32 240)" fill="#333" fill-opacity="0.8">15</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(147.2 240)" fill="#333" fill-opacity="0.8">45</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(262.4 240)" fill="#333" fill-opacity="0.8">20</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(377.6 240)" fill="#333" fill-opacity="0.8">10</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(492.8 240)" fill="#333" fill-opacity="0.8">30</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(608 240)" fill="#333" fill-opacity="0.8">10</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(32 320)" fill="#333" fill-opacity="0.8">40</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(147.2 320)" fill="#333" fill-opacity="0.8">55</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(262.4 320)" fill="#333" fill-opacity="0.8">30</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(377.6 320)" fill="#333" fill-opacity="0.8">20</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(492.8 320)" fill="#333" fill-opacity="0.8">30</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(608 320)" fill="#333" fill-opacity="0.8">80</text>
+<path d="M-5 -5l337.1278 0l0 24l-337.1278 0Z" transform="translate(156.4361 376)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#b7b9be" stroke-width="0" class="zr1-cls-0"></path>
+<path d="M19.5 7A7 7 0 1 1 19.5 6.9993" transform="translate(150.9361 376)" fill="#e01f54" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" stroke-linecap="butt" stroke-miterlimit="10" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="30" y="7" transform="translate(150.9361 376)" fill="#333333">Beijing</text>
+<path d="M5.5 0l62.4319 0l0 14l-62.4319 0Z" transform="translate(150.9361 376)" fill="none" class="zr1-cls-5"></path>
+<path d="M19.5 7A7 7 0 1 1 19.5 6.9993" transform="translate(221.368 376)" fill="#001852" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" stroke-linecap="butt" stroke-miterlimit="10" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="30" y="7" transform="translate(221.368 376)" fill="#333333">Shanghai</text>
+<path d="M5.5 0l75.716 0l0 14l-75.716 0Z" transform="translate(221.368 376)" fill="none" class="zr1-cls-5"></path>
+<path d="M19.5 7A7 7 0 1 1 19.5 6.9993" transform="translate(305.084 376)" fill="#efe1a9" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" stroke-linecap="butt" stroke-miterlimit="10" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="30" y="7" transform="translate(305.084 376)" fill="#333333">Guangzhou</text>
+<path d="M5.5 0l86.9719 0l0 14l-86.9719 0Z" transform="translate(305.084 376)" fill="none" class="zr1-cls-5"></path>
+<path d="M19.5 7A7 7 0 1 1 19.5 6.9993" transform="translate(400.0559 376)" fill="#b8d2c7" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" stroke-linecap="butt" stroke-miterlimit="10" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="30" y="7" transform="translate(400.0559 376)" fill="#333333">Shenzhen</text>
+<path d="M5.5 0l78.0079 0l0 14l-78.0079 0Z" transform="translate(400.0559 376)" fill="none" class="zr1-cls-5"></path>
+<path d="M-95.867 -5l191.7339 0l0 24l-191.7339 0Z" transform="translate(320 10)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#3c3c41" stroke-width="0" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:14px;font-family:sans-serif;font-weight:bold;" xml:space="preserve" y="7" transform="translate(320 10)" fill="#333333">各城市高峰时段分布 (0-24h)</text>
+<style ><![CDATA[
+.zr1-cls-0:hover {
+pointer-events:none;
+}
+.zr1-cls-1:hover {
+cursor:pointer;
+fill:rgba(246,34,92,1);
+}
+.zr1-cls-2:hover {
+cursor:pointer;
+fill:rgba(0,26,90,1);
+}
+.zr1-cls-3:hover {
+cursor:pointer;
+fill:rgba(255,247,185,1);
+}
+.zr1-cls-4:hover {
+cursor:pointer;
+fill:rgba(202,231,218,1);
+}
+.zr1-cls-5:hover {
+cursor:pointer;
+fill:rgba(0,0,0,0);
+}
+
+]]>
+
+</style>
+</svg>

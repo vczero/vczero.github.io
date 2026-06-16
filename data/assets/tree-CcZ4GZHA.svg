@@ -1,0 +1,58 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 800 600">
+<rect width="800" height="600" x="0" y="0" fill="rgb(255,255,255)"></rect>
+<path d="M0 211.7143C101.3333 211.7143 101.3333 65.1429 202.6667 65.1429" transform="translate(96 72)" fill="none" stroke="#cfd2d7" stroke-width="1.5" class="zr1-cls-0"></path>
+<path d="M202.6667 65.1429C304 65.1429 304 43.4286 405.3333 43.4286" transform="translate(96 72)" fill="none" stroke="#cfd2d7" stroke-width="1.5" class="zr1-cls-0"></path>
+<path d="M202.6667 65.1429C304 65.1429 304 86.8571 405.3333 86.8571" transform="translate(96 72)" fill="none" stroke="#cfd2d7" stroke-width="1.5" class="zr1-cls-0"></path>
+<path d="M0 211.7143C101.3333 211.7143 101.3333 195.4286 202.6667 195.4286" transform="translate(96 72)" fill="none" stroke="#cfd2d7" stroke-width="1.5" class="zr1-cls-0"></path>
+<path d="M202.6667 195.4286C304 195.4286 304 173.7143 405.3333 173.7143" transform="translate(96 72)" fill="none" stroke="#cfd2d7" stroke-width="1.5" class="zr1-cls-0"></path>
+<path d="M202.6667 195.4286C304 195.4286 304 217.1429 405.3333 217.1429" transform="translate(96 72)" fill="none" stroke="#cfd2d7" stroke-width="1.5" class="zr1-cls-0"></path>
+<path d="M0 211.7143C101.3333 211.7143 101.3333 358.2857 202.6667 358.2857" transform="translate(96 72)" fill="none" stroke="#cfd2d7" stroke-width="1.5" class="zr1-cls-0"></path>
+<path d="M202.6667 358.2857C304 358.2857 304 304 405.3333 304" transform="translate(96 72)" fill="none" stroke="#cfd2d7" stroke-width="1.5" class="zr1-cls-0"></path>
+<path d="M405.3333 304C506.6667 304 506.6667 282.2857 608 282.2857" transform="translate(96 72)" fill="none" stroke="#cfd2d7" stroke-width="1.5" class="zr1-cls-0"></path>
+<path d="M405.3333 304C506.6667 304 506.6667 325.7143 608 325.7143" transform="translate(96 72)" fill="none" stroke="#cfd2d7" stroke-width="1.5" class="zr1-cls-0"></path>
+<path d="M202.6667 358.2857C304 358.2857 304 412.5714 405.3333 412.5714" transform="translate(96 72)" fill="none" stroke="#cfd2d7" stroke-width="1.5" class="zr1-cls-0"></path>
+<path d="M405.3333 412.5714C506.6667 412.5714 506.6667 412.5714 608 412.5714" transform="translate(96 72)" fill="none" stroke="#cfd2d7" stroke-width="1.5" class="zr1-cls-0"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,96,283.7143)" fill="#fff" stroke="#e01f54" stroke-width="0.4" class="zr1-cls-1"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,298.6667,137.1429)" fill="#fff" stroke="#e01f54" stroke-width="0.4" class="zr1-cls-1"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,501.3333,115.4286)" fill="#fff" stroke="#e01f54" stroke-width="0.4" class="zr1-cls-1"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,501.3333,158.8571)" fill="#fff" stroke="#e01f54" stroke-width="0.4" class="zr1-cls-1"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,298.6667,267.4286)" fill="#fff" stroke="#e01f54" stroke-width="0.4" class="zr1-cls-1"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,501.3333,245.7143)" fill="#fff" stroke="#e01f54" stroke-width="0.4" class="zr1-cls-1"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,501.3333,289.1429)" fill="#fff" stroke="#e01f54" stroke-width="0.4" class="zr1-cls-1"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,298.6667,430.2857)" fill="#fff" stroke="#e01f54" stroke-width="0.4" class="zr1-cls-1"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,501.3333,376)" fill="#fff" stroke="#e01f54" stroke-width="0.4" class="zr1-cls-1"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,704,354.2857)" fill="#fff" stroke="#e01f54" stroke-width="0.4" class="zr1-cls-1"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,704,397.7143)" fill="#fff" stroke="#e01f54" stroke-width="0.4" class="zr1-cls-1"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,501.3333,484.5714)" fill="#fff" stroke="#e01f54" stroke-width="0.4" class="zr1-cls-1"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,704,484.5714)" fill="#fff" stroke="#e01f54" stroke-width="0.4" class="zr1-cls-1"></path>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(85 283.7143)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">CEO</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="translate(287.6667 137.1429)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">VP Product</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="translate(512.3333 115.4286)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Product Manager A</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="translate(512.3333 158.8571)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Product Manager B</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="translate(287.6667 267.4286)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">VP Sales</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="translate(512.3333 245.7143)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Sales Lead A</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="translate(512.3333 289.1429)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Sales Lead B</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="translate(287.6667 430.2857)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">VP Engineering</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="translate(490.3333 376)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Backend Lead</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="translate(715 354.2857)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Dev A</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="translate(715 397.7143)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Dev B</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="translate(490.3333 484.5714)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Frontend Lead</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="translate(715 484.5714)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Dev C</text>
+<path d="M-47 -5l94 0l0 24l-94 0Z" transform="translate(400 10)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#3c3c41" stroke-width="0" class="zr1-cls-2"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:14px;font-family:sans-serif;font-weight:bold;" y="7" transform="translate(400 10)" fill="#333333">公司组织架构</text>
+<style ><![CDATA[
+.zr1-cls-0:hover {
+cursor:pointer;
+}
+.zr1-cls-1:hover {
+cursor:pointer;
+fill:rgba(255,255,255,1);
+}
+.zr1-cls-2:hover {
+pointer-events:none;
+}
+
+]]>
+
+</style>
+</svg>

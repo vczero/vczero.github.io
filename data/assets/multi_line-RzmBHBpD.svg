@@ -1,0 +1,142 @@
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 640 480">
+<rect width="640" height="480" x="0" y="0" fill="rgb(255,255,255)"></rect>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="-6" transform="matrix(0,-1,1,0,20,221)" fill="#333">访问量</text>
+<path d="M60.5 405L60.5 37" fill="none" stroke="#333" stroke-linecap="round" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(342.75 435)" fill="#333">月份</text>
+<path d="M60.5 405.5L625 405.5" fill="none" stroke="#333" stroke-linecap="round" class="zr1-cls-0"></path>
+<path d="M60.5 405.5L55.5 405.5" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M60.5 331.5L55.5 331.5" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M60.5 258.5L55.5 258.5" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M60.5 184.5L55.5 184.5" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M60.5 110.5L55.5 110.5" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M60.5 37.5L55.5 37.5" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M60.5 405L60.5 410" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M141.5 405L141.5 410" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M222.5 405L222.5 410" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M302.5 405L302.5 410" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M383.5 405L383.5 410" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M463.5 405L463.5 410" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M544.5 405L544.5 410" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M625.5 405L625.5 410" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(52.5 405)" fill="#333">0</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(52.5 331.4)" fill="#333">100</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(52.5 257.8)" fill="#333">200</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(52.5 184.2)" fill="#333">300</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(52.5 110.6)" fill="#333">400</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(52.5 37)" fill="#333">500</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(100.8214 413)" fill="#333">1月</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(181.4643 413)" fill="#333">2月</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(262.1071 413)" fill="#333">3月</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(342.75 413)" fill="#333">4月</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(423.3929 413)" fill="#333">5月</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(504.0357 413)" fill="#333">6月</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(584.6786 413)" fill="#333">7月</text>
+<g clip-path="url(#zr1-c0)">
+<path d="M100.8214 316.68L181.4643 307.848L262.1071 330.664L342.75 306.376L423.3929 338.76L504.0357 235.72L584.6786 250.44" fill="none" stroke="#e01f54" stroke-width="2" stroke-linejoin="bevel" class="zr1-cls-2"></path>
+</g>
+<g clip-path="url(#zr1-c1)">
+<path d="M100.8214 243.08L181.4643 271.048L262.1071 264.424L342.75 232.776L423.3929 191.56L504.0357 162.12L584.6786 176.84" fill="none" stroke="#001852" stroke-width="2" stroke-linejoin="bevel" class="zr1-cls-2"></path>
+</g>
+<g clip-path="url(#zr1-c2)">
+<path d="M100.8214 294.6L181.4643 234.248L262.1071 257.064L342.75 291.656L423.3929 265.16L504.0357 162.12L584.6786 103.24" fill="none" stroke="#efe1a9" stroke-width="2" stroke-linejoin="bevel" class="zr1-cls-2"></path>
+</g>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,100.8214,316.68)" fill="#e01f54" class="zr1-cls-3"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,181.4643,307.848)" fill="#e01f54" class="zr1-cls-3"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,262.1071,330.664)" fill="#e01f54" class="zr1-cls-3"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,342.75,306.376)" fill="#e01f54" class="zr1-cls-3"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,423.3929,338.76)" fill="#e01f54" class="zr1-cls-3"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,504.0357,235.72)" fill="#e01f54" class="zr1-cls-3"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,584.6786,250.44)" fill="#e01f54" class="zr1-cls-3"></path>
+<path d="M-1 -1l2 0l0 2l-2 0Z" transform="matrix(5,0,0,5,100.8214,243.08)" fill="#001852" class="zr1-cls-4"></path>
+<path d="M-1 -1l2 0l0 2l-2 0Z" transform="matrix(5,0,0,5,181.4643,271.048)" fill="#001852" class="zr1-cls-4"></path>
+<path d="M-1 -1l2 0l0 2l-2 0Z" transform="matrix(5,0,0,5,262.1071,264.424)" fill="#001852" class="zr1-cls-4"></path>
+<path d="M-1 -1l2 0l0 2l-2 0Z" transform="matrix(5,0,0,5,342.75,232.776)" fill="#001852" class="zr1-cls-4"></path>
+<path d="M-1 -1l2 0l0 2l-2 0Z" transform="matrix(5,0,0,5,423.3929,191.56)" fill="#001852" class="zr1-cls-4"></path>
+<path d="M-1 -1l2 0l0 2l-2 0Z" transform="matrix(5,0,0,5,504.0357,162.12)" fill="#001852" class="zr1-cls-4"></path>
+<path d="M-1 -1l2 0l0 2l-2 0Z" transform="matrix(5,0,0,5,584.6786,176.84)" fill="#001852" class="zr1-cls-4"></path>
+<path d="M0 -1L1 1L-1 1Z" transform="matrix(5,0,0,5,100.8214,294.6)" fill="#efe1a9" class="zr1-cls-5"></path>
+<path d="M0 -1L1 1L-1 1Z" transform="matrix(5,0,0,5,181.4643,234.248)" fill="#efe1a9" class="zr1-cls-5"></path>
+<path d="M0 -1L1 1L-1 1Z" transform="matrix(5,0,0,5,262.1071,257.064)" fill="#efe1a9" class="zr1-cls-5"></path>
+<path d="M0 -1L1 1L-1 1Z" transform="matrix(5,0,0,5,342.75,291.656)" fill="#efe1a9" class="zr1-cls-5"></path>
+<path d="M0 -1L1 1L-1 1Z" transform="matrix(5,0,0,5,423.3929,265.16)" fill="#efe1a9" class="zr1-cls-5"></path>
+<path d="M0 -1L1 1L-1 1Z" transform="matrix(5,0,0,5,504.0357,162.12)" fill="#efe1a9" class="zr1-cls-5"></path>
+<path d="M0 -1L1 1L-1 1Z" transform="matrix(5,0,0,5,584.6786,103.24)" fill="#efe1a9" class="zr1-cls-5"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="-6" transform="translate(100.8214 306.68)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">120</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="-6" transform="translate(181.4643 297.848)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">132</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="-6" transform="translate(262.1071 320.664)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">101</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="-6" transform="translate(342.75 296.376)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">134</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="-6" transform="translate(423.3929 328.76)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">90</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="-6" transform="translate(504.0357 225.72)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">230</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="-6" transform="translate(584.6786 240.44)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">210</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="-6" transform="translate(100.8214 233.08)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">220</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="-6" transform="translate(181.4643 261.048)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">182</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="-6" transform="translate(262.1071 254.424)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">191</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="-6" transform="translate(342.75 222.776)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">234</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="-6" transform="translate(423.3929 181.56)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">290</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="-6" transform="translate(504.0357 152.12)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">330</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="-6" transform="translate(584.6786 166.84)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">310</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="-6" transform="translate(100.8214 284.6)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">150</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="-6" transform="translate(181.4643 224.248)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">232</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="-6" transform="translate(262.1071 247.064)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">201</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="-6" transform="translate(342.75 281.656)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">154</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="-6" transform="translate(423.3929 255.16)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">190</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="-6" transform="translate(504.0357 152.12)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">330</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="-6" transform="translate(584.6786 93.24)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">410</text>
+<path d="M-5 -5l263 0l0 22l-263 0Z" transform="translate(193.5 458)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#b7b9be" stroke-width="0" class="zr1-cls-0"></path>
+<path d="M0 7L25 7" transform="translate(194.5 457)" fill="#000" stroke="#e01f54" stroke-width="2" stroke-linecap="butt" stroke-miterlimit="10" class="zr1-cls-0"></path>
+<path d="M18.1 7A5.6 5.6 0 1 1 18.1 6.9994" transform="translate(194.5 457)" fill="#e01f54" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="30" y="7" transform="translate(194.5 457)" fill="#333333">邮件营销</text>
+<path d="M-1 1l79 0l0 12l-79 0Z" transform="translate(194.5 457)" fill="none" class="zr1-cls-6"></path>
+<path d="M0 7L25 7" transform="translate(281.5 457)" fill="#000" stroke="#001852" stroke-width="2" stroke-linecap="butt" stroke-miterlimit="10" class="zr1-cls-0"></path>
+<path d="M6.9 1.4l11.2 0l0 11.2l-11.2 0Z" transform="translate(281.5 457)" fill="#001852" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="30" y="7" transform="translate(281.5 457)" fill="#333333">联盟广告</text>
+<path d="M-1 1l79 0l0 12l-79 0Z" transform="translate(281.5 457)" fill="none" class="zr1-cls-6"></path>
+<path d="M0 7L25 7" transform="translate(368.5 457)" fill="#000" stroke="#efe1a9" stroke-width="2" stroke-linecap="butt" stroke-miterlimit="10" class="zr1-cls-0"></path>
+<path d="M12.5 1.4L18.1 12.6L6.9 12.6Z" transform="translate(368.5 457)" fill="#efe1a9" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="30" y="7" transform="translate(368.5 457)" fill="#333333">视频广告</text>
+<path d="M-1 1l79 0l0 12l-79 0Z" transform="translate(368.5 457)" fill="none" class="zr1-cls-6"></path>
+<path d="M-54 -5l108 0l0 24l-108 0Z" transform="translate(320 10)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#3c3c41" stroke-width="0" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:14px;font-family:sans-serif;font-weight:bold;" y="7" transform="translate(320 10)" fill="#333333">多渠道流量趋势</text>
+<defs >
+<clipPath id="zr1-c0">
+<path d="M59 36l568 0l0 370l-568 0Z" fill="#000" class="zr1-cls-1"></path>
+</clipPath>
+<clipPath id="zr1-c1">
+<path d="M59 36l568 0l0 370l-568 0Z" fill="#000" class="zr1-cls-1"></path>
+</clipPath>
+<clipPath id="zr1-c2">
+<path d="M59 36l568 0l0 370l-568 0Z" fill="#000" class="zr1-cls-1"></path>
+</clipPath>
+</defs>
+<style ><![CDATA[
+.zr1-cls-0:hover {
+pointer-events:none;
+}
+.zr1-cls-1:hover {
+cursor:pointer;
+fill:rgba(0,0,0,1);
+}
+.zr1-cls-2:hover {
+cursor:pointer;
+}
+.zr1-cls-3:hover {
+cursor:pointer;
+fill:rgba(246,34,92,1);
+}
+.zr1-cls-4:hover {
+cursor:pointer;
+fill:rgba(0,26,90,1);
+}
+.zr1-cls-5:hover {
+cursor:pointer;
+fill:rgba(255,247,185,1);
+}
+.zr1-cls-6:hover {
+cursor:pointer;
+fill:rgba(0,0,0,0);
+}
+
+]]>
+
+</style>
+</svg>

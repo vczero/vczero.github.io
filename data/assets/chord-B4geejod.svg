@@ -1,0 +1,85 @@
+<svg width="640" height="640" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 640 640">
+<rect width="640" height="640" x="0" y="0" fill="rgb(255,255,255)"></rect>
+<path d="M320 96A224 224 0 0 1 397.7114 109.9121C343.3134 256.9736 382.2883 294.7809 527.6277 235.9362A224 224 0 0 1 543.8964 313.1886C387.1689 317.9566 320 252.8 320 96Z" fill="#e01f54" fill-opacity="0.30000000000000004" stroke="source" stroke-width="0" stroke-opacity="0.30000000000000004" class="zr1-cls-9"></path>
+<path d="M397.7114 109.9121A224 224 0 0 1 433.5171 126.8941C354.0551 262.0682 347.1015 381.4927 410.3385 524.9755A224 224 0 0 1 372.8038 537.6873C335.8411 385.3062 343.3134 256.9736 397.7114 109.9121Z" fill="#e01f54" fill-opacity="0.30000000000000004" stroke="source" stroke-width="0" stroke-opacity="0.30000000000000004" class="zr1-cls-9"></path>
+<path d="M543.8964 313.1886A224 224 0 0 1 536.868 376.0738C385.0604 336.8221 335.8411 385.3062 372.8038 537.6873A224 224 0 0 1 309.82 543.7686C316.946 387.1306 387.1689 317.9566 543.8964 313.1886Z" fill="rgb(0,24,82)" fill-opacity="0.3" stroke="source" stroke-width="0" stroke-opacity="0.3" class="zr1-cls-10"></path>
+<path d="M309.82 543.7686A224 224 0 0 1 218.4313 519.6492C289.5294 379.8948 280.4497 374.3288 188.1657 501.0959A224 224 0 0 1 125.2077 430.5982C261.5623 353.1795 316.946 387.1306 309.82 543.7686Z" fill="#efe1a9" fill-opacity="0.30000000000000004" stroke="source" stroke-width="0" stroke-opacity="0.30000000000000004" class="zr1-cls-11"></path>
+<path d="M125.2077 430.5982A224 224 0 0 1 106.2586 387.0119C255.8776 340.1036 354.0551 262.0682 433.5171 126.8941A224 224 0 0 1 471.7029 155.1903C365.5109 270.5571 261.5623 353.1795 125.2077 430.5982Z" fill="#b8d2c7" fill-opacity="0.30000000000000004" stroke="source" stroke-width="0" stroke-opacity="0.30000000000000004" class="zr1-cls-12"></path>
+<path d="M96.9477 340.5838A224 224 0 0 1 117.2799 224.7081C259.184 291.4124 385.0604 336.8221 536.868 376.0738A224 224 0 0 1 478.5408 478.2429C367.5622 367.4729 253.0843 326.1751 96.9477 340.5838Z" fill="rgb(198,179,142)" fill-opacity="0.3" stroke="source" stroke-width="0" stroke-opacity="0.3" class="zr1-cls-13"></path>
+<path d="M117.2799 224.7081A224 224 0 0 1 132.7714 197.0306C263.8314 283.1092 365.5109 270.5571 471.7029 155.1903A224 224 0 0 1 493.4603 178.2695C372.0381 277.4808 259.184 291.4124 117.2799 224.7081Z" fill="#c6b38e" fill-opacity="0.30000000000000004" stroke="source" stroke-width="0" stroke-opacity="0.30000000000000004" class="zr1-cls-13"></path>
+<path d="M139.4637 187.4004A224 224 0 0 1 177.5365 147.1412C277.261 268.1424 372.0381 277.4808 493.4602 178.2695A224 224 0 0 1 522.9436 225.185C380.8831 291.5555 265.8391 280.2201 139.4637 187.4004Z" fill="#a4d8c2" fill-opacity="0.30000000000000004" stroke="source" stroke-width="0" stroke-opacity="0.30000000000000004" class="zr1-cls-14"></path>
+<path d="M177.5365 147.1412A224 224 0 0 1 196.6786 133.0031C283.0036 263.9009 289.5294 379.8948 218.4313 519.6492A224 224 0 0 1 197.8242 507.7474C283.3473 376.3242 277.261 268.1424 177.5365 147.1412Z" fill="#a4d8c2" fill-opacity="0.30000000000000004" stroke="source" stroke-width="0" stroke-opacity="0.30000000000000004" class="zr1-cls-14"></path>
+<path d="M206.6343 126.8052A224 224 0 0 1 272.9127 101.0051C305.8738 254.3015 367.5622 367.4729 478.5408 478.2429A224 224 0 0 1 420.9422 519.9667C350.2827 379.99 285.9903 262.0416 206.6343 126.8052Z" fill="rgb(243,217,153)" fill-opacity="0.3" stroke="source" stroke-width="0" stroke-opacity="0.3" class="zr1-cls-15"></path>
+<path d="M272.9127 101.0051A224 224 0 0 1 308.2767 96.307C316.483 252.8921 255.8776 340.1036 106.2586 387.0119A224 224 0 0 1 98.3307 352.2292C253.4992 329.6688 305.8738 254.3015 272.9127 101.0051Z" fill="#f3d999" fill-opacity="0.30000000000000004" stroke="source" stroke-width="0" stroke-opacity="0.30000000000000004" class="zr1-cls-15"></path>
+<path d="M320 69.0498A5 5 0 0 1 325.0996 64.0508A256 256 0 0 1 549.731 207.0413A5 5 0 0 1 547.3605 213.7775L522.9436 225.185A224 224 0 0 0 320 96Z" fill="#e01f54" class="zr1-cls-9"></path>
+<path d="M552.6081 225.8222A5 5 0 0 1 559.1556 228.673A256 256 0 0 1 439.8921 546.1899A5 5 0 0 1 433.0869 544.0253L420.9422 519.9667A224 224 0 0 0 527.6277 235.9362Z" fill="rgb(0,24,82)" class="zr1-cls-10"></path>
+<path d="M421.2074 549.6368A5 5 0 0 1 418.557 556.2679A256 256 0 0 1 184.6725 537.3073A5 5 0 0 1 183.1248 530.3359L197.8242 507.7474A224 224 0 0 0 410.3385 524.9755Z" fill="#efe1a9" class="zr1-cls-11"></path>
+<path d="M172.3043 522.8841A5 5 0 0 1 165.2393 523.9243A256 256 0 0 1 67.4477 361.8726A5 5 0 0 1 71.6609 356.1068L98.3307 352.2292A224 224 0 0 0 188.1657 501.0959Z" fill="#b8d2c7" class="zr1-cls-12"></path>
+<path d="M70.1116 343.0603A5 5 0 0 1 64.6651 338.4416A256 256 0 0 1 103.2674 183.7539A5 5 0 0 1 110.2453 182.2358L132.7714 197.0306A224 224 0 0 0 96.9477 340.5838Z" fill="#c6b38e" class="zr1-cls-13"></path>
+<path d="M117.7428 171.4469A5 5 0 0 1 116.7326 164.3775A256 256 0 0 1 174.8321 109.1392A5 5 0 0 1 181.8414 110.5049L196.6786 133.0031A224 224 0 0 0 139.4638 187.4004Z" fill="#a4d8c2" class="zr1-cls-14"></path>
+<path d="M192.9949 103.5613A5 5 0 0 1 194.8632 96.6689A256 256 0 0 1 301.512 64.6685A5 5 0 0 1 306.8663 69.3937L308.2767 96.307A224 224 0 0 0 206.6343 126.8052Z" fill="#f3d999" class="zr1-cls-15"></path>
+<path d="M-5 -5l436 0l0 24l-436 0Z" transform="translate(107 616)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#b7b9be" stroke-width="0" class="zr1-cls-16"></path>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(107 616)" fill="#e01f54" class="zr1-cls-16"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="30" y="7" transform="translate(107 616)" fill="#333333">北京</text>
+<path d="M0 0l54 0l0 14l-54 0Z" transform="translate(107 616)" fill="none" class="zr1-cls-17"></path>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(169 616)" fill="#001852" class="zr1-cls-16"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="30" y="7" transform="translate(169 616)" fill="#333333">上海</text>
+<path d="M0 0l54 0l0 14l-54 0Z" transform="translate(169 616)" fill="none" class="zr1-cls-17"></path>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(231 616)" fill="#efe1a9" class="zr1-cls-16"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="30" y="7" transform="translate(231 616)" fill="#333333">广州</text>
+<path d="M0 0l54 0l0 14l-54 0Z" transform="translate(231 616)" fill="none" class="zr1-cls-17"></path>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(293 616)" fill="#b8d2c7" class="zr1-cls-16"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="30" y="7" transform="translate(293 616)" fill="#333333">深圳</text>
+<path d="M0 0l54 0l0 14l-54 0Z" transform="translate(293 616)" fill="none" class="zr1-cls-17"></path>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(355 616)" fill="#c6b38e" class="zr1-cls-16"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="30" y="7" transform="translate(355 616)" fill="#333333">杭州</text>
+<path d="M0 0l54 0l0 14l-54 0Z" transform="translate(355 616)" fill="none" class="zr1-cls-17"></path>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(417 616)" fill="#a4d8c2" class="zr1-cls-16"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="30" y="7" transform="translate(417 616)" fill="#333333">成都</text>
+<path d="M0 0l54 0l0 14l-54 0Z" transform="translate(417 616)" fill="none" class="zr1-cls-17"></path>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(479 616)" fill="#f3d999" class="zr1-cls-16"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="30" y="7" transform="translate(479 616)" fill="#333333">武汉</text>
+<path d="M0 0l54 0l0 14l-54 0Z" transform="translate(479 616)" fill="none" class="zr1-cls-17"></path>
+<path d="M-54 -5l108 0l0 24l-108 0Z" transform="translate(320 10)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#3c3c41" stroke-width="0" class="zr1-cls-16"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:14px;font-family:sans-serif;font-weight:bold;" y="7" transform="translate(320 10)" fill="#333333">城市流动和弦图</text>
+<style ><![CDATA[
+.zr1-cls-9:hover {
+cursor:pointer;
+fill:rgba(246,34,92,1);
+}
+.zr1-cls-10:hover {
+cursor:pointer;
+fill:rgba(0,26,90,1);
+}
+.zr1-cls-11:hover {
+cursor:pointer;
+fill:rgba(255,247,185,1);
+}
+.zr1-cls-12:hover {
+cursor:pointer;
+fill:rgba(202,231,218,1);
+}
+.zr1-cls-13:hover {
+cursor:pointer;
+fill:rgba(217,196,156,1);
+}
+.zr1-cls-14:hover {
+cursor:pointer;
+fill:rgba(180,237,213,1);
+}
+.zr1-cls-15:hover {
+cursor:pointer;
+fill:rgba(255,238,168,1);
+}
+.zr1-cls-16:hover {
+pointer-events:none;
+}
+.zr1-cls-17:hover {
+cursor:pointer;
+fill:rgba(0,0,0,0);
+}
+
+]]>
+
+</style>
+</svg>

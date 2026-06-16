@@ -1,0 +1,113 @@
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 640 480">
+<rect width="640" height="480" x="0" y="0" fill="rgb(255,255,255)"></rect>
+<text dominant-baseline="central" text-anchor="start" style="font-size:48px;font-family:sans-serif;" x="-48" y="4.799999999999997" transform="translate(320 260)" fill="#e01f54">巴黎</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:47.11111111111111px;font-family:sans-serif;" x="-47.11000061035156" y="4.711111111111109" transform="matrix(0,1,-1,0,256,272)" fill="#e01f54">伦敦</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:45.77777777777778px;font-family:sans-serif;" x="-45.769989013671875" y="4.577777777777776" transform="matrix(0,1,-1,0,394,260)" fill="#e01f54">东京</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:44.44444444444444px;font-family:sans-serif;" x="-44.43998718261719" y="4.444444444444443" transform="translate(326 216)" fill="#e01f54">纽约</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:43.55555555555556px;font-family:sans-serif;" x="-43.54998779296875" y="4.355555555555554" transform="translate(328 306)" fill="#e01f54">罗马</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:42.66666666666667px;font-family:sans-serif;" x="-42.65998840332031" y="4.266666666666666" transform="matrix(0,1,-1,0,212,278)" fill="#e01f54">曼谷</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:41.77777777777778px;font-family:sans-serif;" x="-41.769989013671875" y="4.177777777777777" transform="matrix(0,1,-1,0,436,260)" fill="#e01f54">迪拜</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:41.333333333333336px;font-family:sans-serif;" x="-61.99500274658203" y="4.133333333333333" transform="matrix(0,1,-1,0,264,168)" fill="#e01f54">新加坡</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:40.44444444444444px;font-family:sans-serif;" x="-80.87997436523438" y="4.044444444444444" transform="translate(342 346)" fill="#e01f54">巴塞罗那</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:39.55555555555556px;font-family:sans-serif;" x="-59.324981689453125" y="3.9555555555555557" transform="matrix(0,1,-1,0,170,268)" fill="#e01f54">威尼斯</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:39.111111111111114px;font-family:sans-serif;" x="-58.665000915527344" y="3.9111111111111114" transform="matrix(0,1,-1,0,218,178)" fill="#e01f54">洛杉矶</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:38.66666666666667px;font-family:sans-serif;" x="-38.65998840332031" y="3.866666666666667" transform="translate(342 176)" fill="#e01f54">悉尼</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:38.22222222222222px;font-family:sans-serif;" x="-38.220001220703125" y="3.822222222222221" transform="translate(418 194)" fill="#e01f54">首尔</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:37.77777777777778px;font-family:sans-serif;" x="-37.769989013671875" y="3.777777777777777" transform="translate(228 338)" fill="#e01f54">台北</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:37.33333333333333px;font-family:sans-serif;" x="-37.33000183105469" y="3.7333333333333325" transform="matrix(0,-1,1,0,466,260)" fill="#e01f54">香港</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:36.888888888888886px;font-family:sans-serif;" x="-92.1999740600586" y="3.688888888888888" transform="translate(306 384)" fill="#e01f54">伊斯坦布尔</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:36.44444444444444px;font-family:sans-serif;" x="-91.09996795654297" y="3.644444444444444" transform="translate(372 136)" fill="#e01f54">阿姆斯特丹</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:36px;font-family:sans-serif;" x="-72" y="3.5999999999999996" transform="matrix(0,-1,1,0,504,260)" fill="#e01f54">佛罗伦萨</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:35.55555555555556px;font-family:sans-serif;" x="-35.54998779296875" y="3.5555555555555554" transform="translate(444 314)" fill="#e01f54">米兰</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:35.111111111111114px;font-family:sans-serif;" x="-35.11000061035156" y="3.511111111111111" transform="translate(160 186)" fill="#e01f54">京都</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:34.666666666666664px;font-family:sans-serif;" x="-34.66999816894531" y="3.465334065755206" transform="translate(458 346)" fill="#e01f54">大阪</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:34.22222222222222px;font-family:sans-serif;" x="-51.33000183105469" y="3.4222222222222207" transform="matrix(0,-1,1,0,126,270)" fill="#e01f54">布拉格</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:33.77777777777778px;font-family:sans-serif;" x="-50.65498352050781" y="3.3777777777777764" transform="matrix(0,1,-1,0,98,278)" fill="#e01f54">维也纳</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:33.33333333333333px;font-family:sans-serif;" x="-49.99500274658203" y="3.333333333333332" transform="matrix(0,-1,1,0,476,156)" fill="#e01f54">马德里</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32.888888888888886px;font-family:sans-serif;" x="-49.319984436035156" y="3.288888888888888" transform="matrix(0,-1,1,0,540,260)" fill="#e01f54">旧金山</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32.44444444444444px;font-family:sans-serif;" x="-48.65998077392578" y="3.2444444444444436" transform="translate(142 342)" fill="#e01f54">芝加哥</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:32px;font-family:sans-serif;" x="-80" y="3.1999999999999993" transform="translate(360 100)" fill="#e01f54">拉斯维加斯</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:31.555555555555557px;font-family:sans-serif;" x="-47.324981689453125" y="3.155555555555555" transform="translate(444 384)" fill="#e01f54">迈阿密</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:31.111111111111107px;font-family:sans-serif;" x="-31.110000610351562" y="3.1111111111111107" transform="translate(180 372)" fill="#e01f54">柏林</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:30.666666666666664px;font-family:sans-serif;" x="-45.98998260498047" y="3.0666666666666664" transform="translate(150 154)" fill="#e01f54">慕尼黑</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:30.22222222222222px;font-family:sans-serif;" x="-30.219985961914062" y="3.022222222222222" transform="matrix(0,-1,1,0,504,358)" fill="#e01f54">北京</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:29.777777777777775px;font-family:sans-serif;" x="-29.769989013671875" y="2.977777777777776" transform="matrix(0,-1,1,0,508,164)" fill="#e01f54">上海</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:29.333333333333332px;font-family:sans-serif;" x="-29.329986572265625" y="2.933333333333332" transform="translate(312 416)" fill="#e01f54">广州</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:28.88888888888889px;font-family:sans-serif;" x="-28.879989624023438" y="2.8888888888888875" transform="translate(94 204)" fill="#e01f54">深圳</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:28.444444444444443px;font-family:sans-serif;" x="-28.439987182617188" y="2.844444444444443" transform="matrix(0,1,-1,0,544,338)" fill="#e01f54">成都</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:28px;font-family:sans-serif;" x="-28" y="2.799999999999999" transform="translate(372 418)" fill="#e01f54">杭州</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:27.555555555555554px;font-family:sans-serif;" x="-27.54998779296875" y="2.7555555555555546" transform="translate(252 418)" fill="#e01f54">西安</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:27.11111111111111px;font-family:sans-serif;" x="-27.110000610351562" y="2.7111111111111104" transform="translate(212 102)" fill="#e01f54">重庆</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:26.666666666666668px;font-family:sans-serif;" x="-26.659988403320312" y="2.666666666666666" transform="translate(190 404)" fill="#e01f54">厦门</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:26.22222222222222px;font-family:sans-serif;" x="-26.219985961914062" y="2.622222222222222" transform="matrix(0,-1,1,0,540,186)" fill="#e01f54">三亚</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:25.77777777777778px;font-family:sans-serif;" x="-38.65498352050781" y="2.5777777777777775" transform="matrix(0,1,-1,0,66,278)" fill="#e01f54">苏黎世</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:25.333333333333336px;font-family:sans-serif;" x="-37.99497985839844" y="2.533333333333333" transform="translate(440 414)" fill="#e01f54">日内瓦</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:24.88888888888889px;font-family:sans-serif;" x="-49.759979248046875" y="2.488888888888889" transform="matrix(0,-1,1,0,572,260)" fill="#e01f54">哥本哈根</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:24.444444444444443px;font-family:sans-serif;" x="-61.09996795654297" y="2.444444444444443" transform="translate(278 74)" fill="#e01f54">斯德哥尔摩</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:24px;font-family:sans-serif;" x="-36" y="2.3999999999999986" transform="translate(144 124)" fill="#e01f54">奥斯陆</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:23.555555555555557px;font-family:sans-serif;" x="-47.0999755859375" y="2.355555555555556" transform="matrix(0,-1,1,0,598,260)" fill="#e01f54">赫尔辛基</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:23.11111111111111px;font-family:sans-serif;" x="-23.110000610351562" y="2.31111111111111" transform="matrix(0,1,-1,0,92,168)" fill="#e01f54">雅典</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:22.666666666666664px;font-family:sans-serif;" x="-45.319976806640625" y="2.2666666666666657" transform="matrix(0,1,-1,0,40,288)" fill="#e01f54">圣托里尼</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:22.22222222222222px;font-family:sans-serif;" x="-22.219985961914062" y="2.2222222222222214" transform="matrix(0,-1,1,0,134,386)" fill="#e01f54">开罗</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:21.77777777777778px;font-family:sans-serif;" x="-32.65498352050781" y="2.177777777777777" transform="translate(320 442)" fill="#e01f54">开普敦</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:21.333333333333332px;font-family:sans-serif;" x="-53.32496643066406" y="2.133333333333333" transform="matrix(0,1,-1,0,58,188)" fill="#e01f54">里约热内卢</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:20.88888888888889px;font-family:sans-serif;" x="-73.07996368408203" y="2.0888888888888886" transform="translate(214 444)" fill="#e01f54">布宜诺斯艾利斯</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:20.444444444444443px;font-family:sans-serif;" x="-30.65998077392578" y="2.0444444444444443" transform="matrix(0,1,-1,0,456,96)" fill="#e01f54">圣保罗</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:20px;font-family:sans-serif;" x="-20" y="2" transform="translate(104 370)" fill="#e01f54">利马</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:19.555555555555554px;font-family:sans-serif;" x="-39.0999755859375" y="1.9555555555555548" transform="translate(380 74)" fill="#e01f54">墨西哥城</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:19.11111111111111px;font-family:sans-serif;" x="-28.665000915527344" y="1.9111111111111105" transform="matrix(0,1,-1,0,568,340)" fill="#e01f54">多伦多</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:18.666666666666664px;font-family:sans-serif;" x="-27.98998260498047" y="1.8666666666666663" transform="matrix(0,-1,1,0,566,180)" fill="#e01f54">温哥华</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:18.22222222222222px;font-family:sans-serif;" x="-36.439971923828125" y="1.822222222222222" transform="translate(400 444)" fill="#e01f54">蒙特利尔</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:17.77777777777778px;font-family:sans-serif;" x="-26.654983520507812" y="1.7777777777777777" transform="matrix(0,1,-1,0,70,342)" fill="#e01f54">墨尔本</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:17.333333333333336px;font-family:sans-serif;" x="-34.65997314453125" y="1.7333333333333334" transform="translate(148 100)" fill="#e01f54">布里斯班</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:16.88888888888889px;font-family:sans-serif;" x="-25.319984436035156" y="1.6888888888888882" transform="translate(408 166)" fill="#e01f54">奥克兰</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:16.666666666666668px;font-family:sans-serif;" x="-24.98998260498047" y="1.666666666666666" transform="matrix(0,-1,1,0,536,134)" fill="#e01f54">惠灵顿</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:16.444444444444443px;font-family:sans-serif;" x="-24.65998077392578" y="1.644444444444444" transform="translate(198 426)" fill="#e01f54">皇后镇</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:16.22222222222222px;font-family:sans-serif;" x="-24.329978942871094" y="1.6222222222222218" transform="matrix(0,-1,1,0,584,334)" fill="#e01f54">莫斯科</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:16px;font-family:sans-serif;" x="-32" y="1.5999999999999996" transform="matrix(0,-1,1,0,34,208)" fill="#e01f54">圣彼得堡</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:15.777777777777779px;font-family:sans-serif;" x="-23.654983520507812" y="1.5777777777777775" transform="translate(516 396)" fill="#e01f54">普吉岛</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:15.555555555555555px;font-family:sans-serif;" x="-23.324981689453125" y="1.5555555555555554" transform="translate(552 376)" fill="#e01f54">芭提雅</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:15.333333333333332px;font-family:sans-serif;" x="-15.329986572265625" y="1.5333333333333332" transform="translate(388 312)" fill="#e01f54">清迈</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:15.11111111111111px;font-family:sans-serif;" x="-22.66497802734375" y="1.511111111111111" transform="translate(142 416)" fill="#e01f54">巴厘岛</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:14.88888888888889px;font-family:sans-serif;" x="-22.319984436035156" y="1.488888888888889" transform="matrix(0,1,-1,0,506,110)" fill="#e01f54">马尼拉</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:14.666666666666666px;font-family:sans-serif;" x="-21.98998260498047" y="1.466666666666666" transform="translate(102 390)" fill="#e01f54">吉隆坡</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:14.444444444444445px;font-family:sans-serif;" x="-14.439987182617188" y="1.4444444444444438" transform="matrix(0,1,-1,0,292,182)" fill="#e01f54">槟城</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:14.222222222222221px;font-family:sans-serif;" x="-14.219985961914062" y="1.4222222222222216" transform="matrix(0,-1,1,0,84,342)" fill="#e01f54">芽庄</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:14px;font-family:sans-serif;" x="-28" y="1.3999999999999995" transform="matrix(0,1,-1,0,588,174)" fill="#e01f54">胡志明市</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:13.777777777777777px;font-family:sans-serif;" x="-13.769989013671875" y="1.3777777777777773" transform="matrix(0,1,-1,0,98,128)" fill="#e01f54">河内</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:13.555555555555555px;font-family:sans-serif;" x="-13.54998779296875" y="1.3555555555555552" transform="translate(472 210)" fill="#e01f54">暹粒</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:13.333333333333332px;font-family:sans-serif;" x="-13.329986572265625" y="1.333333333333333" transform="translate(260 96)" fill="#e01f54">仰光</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:13.11111111111111px;font-family:sans-serif;" x="-19.66497802734375" y="1.311111111111111" transform="matrix(0,-1,1,0,470,86)" fill="#e01f54">科伦坡</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12.88888888888889px;font-family:sans-serif;" x="-12.879989624023438" y="1.2888888888888888" transform="matrix(0,1,-1,0,520,118)" fill="#e01f54">马累</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12.666666666666668px;font-family:sans-serif;" x="-25.319976806640625" y="1.2666666666666666" transform="translate(178 84)" fill="#e01f54">阿布扎比</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12.444444444444445px;font-family:sans-serif;" x="-12.439987182617188" y="1.2444444444444445" transform="translate(450 176)" fill="#e01f54">多哈</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12.222222222222221px;font-family:sans-serif;" x="-24.439971923828125" y="1.2222222222222214" transform="translate(294 56)" fill="#e01f54">耶路撒冷</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="-12" y="1.1999999999999993" transform="matrix(0,1,-1,0,278,320)" fill="#e01f54">安曼</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:11.777777777777779px;font-family:sans-serif;" x="-29.424972534179688" y="1.177777777777778" transform="translate(510 414)" fill="#e01f54">卡萨布兰卡</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:11.555555555555555px;font-family:sans-serif;" x="-23.0999755859375" y="1.155555555555555" transform="matrix(0,-1,1,0,52,356)" fill="#e01f54">马拉喀什</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:11.333333333333332px;font-family:sans-serif;" x="-16.994979858398438" y="1.1333333333333329" transform="matrix(0,-1,1,0,428,70)" fill="#e01f54">内罗毕</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:11.11111111111111px;font-family:sans-serif;" x="-27.77496337890625" y="1.1111111111111107" transform="matrix(0,-1,1,0,620,260)" fill="#e01f54">约翰内斯堡</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:10.88888888888889px;font-family:sans-serif;" x="-21.759979248046875" y="1.0888888888888886" transform="matrix(0,1,-1,0,24,242)" fill="#e01f54">圣地亚哥</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:10.666666666666666px;font-family:sans-serif;" x="-15.989982604980469" y="1.0666666666666664" transform="translate(456 436)" fill="#e01f54">波哥大</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:10.444444444444445px;font-family:sans-serif;" x="-15.659980773925781" y="1.0444444444444443" transform="translate(344 460)" fill="#e01f54">哈瓦那</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:10.222222222222221px;font-family:sans-serif;" x="-10.219985961914062" y="1.0222222222222221" transform="translate(302 272)" fill="#e01f54">坎昆</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:10px;font-family:sans-serif;" x="-15" y="1" transform="translate(314 460)" fill="#e01f54">檀香山</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:9.777777777777779px;font-family:sans-serif;" x="-14.654983520507812" y="0.9777777777777779" transform="translate(338 56)" fill="#e01f54">西雅图</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:9.555555555555555px;font-family:sans-serif;" x="-14.324981689453125" y="0.9555555555555553" transform="matrix(0,-1,1,0,552,140)" fill="#e01f54">波士顿</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:9.333333333333334px;font-family:sans-serif;" x="-13.994979858398438" y="0.9333333333333331" transform="translate(200 70)" fill="#e01f54">华盛顿</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:9.11111111111111px;font-family:sans-serif;" x="-9.1099853515625" y="0.911111111111111" transform="translate(240 366)" fill="#e01f54">费城</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:8.88888888888889px;font-family:sans-serif;" x="-17.759979248046875" y="0.8888888888888888" transform="translate(372 58)" fill="#e01f54">亚特兰大</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:8.666666666666666px;font-family:sans-serif;" x="-12.989982604980469" y="0.8666666666666663" transform="translate(254 58)" fill="#e01f54">达拉斯</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:8.444444444444445px;font-family:sans-serif;" x="-12.659980773925781" y="0.8444444444444441" transform="matrix(0,-1,1,0,600,322)" fill="#e01f54">休斯顿</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:8px;font-family:sans-serif;" x="-12" y="0.7999999999999998" transform="matrix(0,1,-1,0,186,220)" fill="#e01f54">里斯本</text>
+<path d="M-47 -5l94 0l0 24l-94 0Z" transform="translate(320 10)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#3c3c41" stroke-width="0" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:14px;font-family:sans-serif;font-weight:bold;" y="7" transform="translate(320 10)" fill="#333333">全球热点城市</text>
+<style ><![CDATA[
+.zr1-cls-0:hover {
+pointer-events:none;
+}
+
+]]>
+
+</style>
+</svg>

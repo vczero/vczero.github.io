@@ -1,0 +1,87 @@
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 640 480">
+<rect width="640" height="480" x="0" y="0" fill="rgb(255,255,255)"></rect>
+<polyline points="202.2 95.6 202.2 95.6" fill="none" stroke="#e01f54" class="zr1-cls-0"></polyline>
+<polyline points="247 167.8 247 167.8" fill="none" stroke="#001852" class="zr1-cls-0"></polyline>
+<polyline points="273.9 240 273.9 240" fill="none" stroke="#efe1a9" class="zr1-cls-0"></polyline>
+<polyline points="291.8 312.2 291.8 312.2" fill="none" stroke="#b8d2c7" class="zr1-cls-0"></polyline>
+<polyline points="309.8 384.4 309.8 384.4" fill="none" stroke="#c6b38e" class="zr1-cls-0"></polyline>
+<polyline points="449 95.6 449 95.6" fill="none" stroke="#e01f54" class="zr1-cls-0"></polyline>
+<polyline points="420.4 167.8 420.4 167.8" fill="none" stroke="#001852" class="zr1-cls-0"></polyline>
+<polyline points="391.7 240 391.7 240" fill="none" stroke="#efe1a9" class="zr1-cls-0"></polyline>
+<polyline points="363 312.2 363 312.2" fill="none" stroke="#b8d2c7" class="zr1-cls-0"></polyline>
+<polyline points="334.3 384.4 334.3 384.4" fill="none" stroke="#c6b38e" class="zr1-cls-0"></polyline>
+<polygon points="32 60 318.7 60 318.7 131.2 139.5 131.2" fill="#e01f54" stroke="#ccc" stroke-width="0" stroke-linejoin="round" class="zr1-cls-1"></polygon>
+<polygon points="139.5 132.2 318.7 132.2 318.7 203.4 211.2 203.4" fill="#001852" stroke="#ccc" stroke-width="0" stroke-linejoin="round" class="zr1-cls-2"></polygon>
+<polygon points="211.2 204.4 318.7 204.4 318.7 275.6 247 275.6" fill="#efe1a9" stroke="#ccc" stroke-width="0" stroke-linejoin="round" class="zr1-cls-3"></polygon>
+<polygon points="247 276.6 318.7 276.6 318.7 347.8 282.9 347.8" fill="#b8d2c7" stroke="#ccc" stroke-width="0" stroke-linejoin="round" class="zr1-cls-4"></polygon>
+<polygon points="282.9 348.8 318.7 348.8 318.7 420 318.7 420" fill="#c6b38e" stroke="#ccc" stroke-width="0" stroke-linejoin="round" class="zr1-cls-5"></polygon>
+<polygon points="320 60 606.7 60 549.4 131.2 320 131.2" fill="#e01f54" stroke="#ccc" stroke-width="0" stroke-linejoin="round" class="zr1-cls-1"></polygon>
+<polygon points="320 132.2 549.4 132.2 492 203.4 320 203.4" fill="#001852" stroke="#ccc" stroke-width="0" stroke-linejoin="round" class="zr1-cls-2"></polygon>
+<polygon points="320 204.4 492 204.4 434.7 275.6 320 275.6" fill="#efe1a9" stroke="#ccc" stroke-width="0" stroke-linejoin="round" class="zr1-cls-3"></polygon>
+<polygon points="320 276.6 434.7 276.6 377.3 347.8 320 347.8" fill="#b8d2c7" stroke="#ccc" stroke-width="0" stroke-linejoin="round" class="zr1-cls-4"></polygon>
+<polygon points="320 348.8 377.3 348.8 320 420 320 420" fill="#c6b38e" stroke="#ccc" stroke-width="0" stroke-linejoin="round" class="zr1-cls-5"></polygon>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" x="202.23999999999998" y="89.6" fill="#eee" stroke="#e01f54" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">展现</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" x="202.23999999999998" y="101.6" fill="#eee" stroke="#e01f54" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">80</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" x="247.03999999999996" y="161.79999999999998" fill="#ccc" stroke="#001852" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">点击</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" x="247.03999999999996" y="173.79999999999998" fill="#ccc" stroke="#001852" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">50</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" x="273.91999999999996" y="233.99999999999994" fill="#333">访问</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" x="273.91999999999996" y="245.99999999999994" fill="#333">30</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" x="291.84000000000003" y="306.19999999999993" fill="#333">咨询</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" x="291.84000000000003" y="318.19999999999993" fill="#333">20</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" x="309.76" y="378.4" fill="#333">订单</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" x="309.76" y="390.4" fill="#333">10</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" x="449.024" y="89.6" fill="#eee" stroke="#e01f54" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">展现</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" x="449.024" y="101.6" fill="#eee" stroke="#e01f54" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">100</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" x="420.352" y="161.79999999999998" fill="#ccc" stroke="#001852" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">点击</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" x="420.352" y="173.79999999999998" fill="#ccc" stroke="#001852" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">80</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" x="391.67999999999995" y="233.99999999999994" fill="#333">访问</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" x="391.67999999999995" y="245.99999999999994" fill="#333">60</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" x="363.008" y="306.19999999999993" fill="#333">咨询</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" x="363.008" y="318.19999999999993" fill="#333">40</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" x="334.336" y="378.4" fill="#333">订单</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" x="334.336" y="390.4" fill="#333">20</text>
+<path d="M-5 -5l126 0l0 24l-126 0Z" transform="translate(262 456)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#b7b9be" stroke-width="0" class="zr1-cls-6"></path>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(262 456)" fill="#e01f54" stroke="#ccc" stroke-width="0" stroke-linecap="butt" stroke-miterlimit="10" class="zr1-cls-6"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="30" y="7" transform="translate(262 456)" fill="#333333">实际</text>
+<path d="M0 0l54 0l0 14l-54 0Z" transform="translate(262 456)" fill="none" class="zr1-cls-7"></path>
+<path d="M3.5 0L21.5 0A3.5 3.5 0 0 1 25 3.5L25 10.5A3.5 3.5 0 0 1 21.5 14L3.5 14A3.5 3.5 0 0 1 0 10.5L0 3.5A3.5 3.5 0 0 1 3.5 0" transform="translate(324 456)" fill="#001852" stroke="#ccc" stroke-width="0" stroke-linecap="butt" stroke-miterlimit="10" class="zr1-cls-6"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="30" y="7" transform="translate(324 456)" fill="#333333">预期</text>
+<path d="M0 0l54 0l0 14l-54 0Z" transform="translate(324 456)" fill="none" class="zr1-cls-7"></path>
+<path d="M-47 -5l94 0l0 24l-94 0Z" transform="translate(320 10)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#3c3c41" stroke-width="0" class="zr1-cls-6"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:14px;font-family:sans-serif;font-weight:bold;" y="7" transform="translate(320 10)" fill="#333333">转化漏斗对比</text>
+<style ><![CDATA[
+.zr1-cls-0:hover {
+cursor:pointer;
+}
+.zr1-cls-1:hover {
+cursor:pointer;
+fill:rgba(246,34,92,1);
+}
+.zr1-cls-2:hover {
+cursor:pointer;
+fill:rgba(0,26,90,1);
+}
+.zr1-cls-3:hover {
+cursor:pointer;
+fill:rgba(255,247,185,1);
+}
+.zr1-cls-4:hover {
+cursor:pointer;
+fill:rgba(202,231,218,1);
+}
+.zr1-cls-5:hover {
+cursor:pointer;
+fill:rgba(217,196,156,1);
+}
+.zr1-cls-6:hover {
+pointer-events:none;
+}
+.zr1-cls-7:hover {
+cursor:pointer;
+fill:rgba(0,0,0,0);
+}
+
+]]>
+
+</style>
+</svg>

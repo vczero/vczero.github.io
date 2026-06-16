@@ -1,0 +1,70 @@
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 640 480">
+<rect width="640" height="480" x="0" y="0" fill="rgb(255,255,255)"></rect>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="-6" transform="matrix(0,-1,1,0,20,235)" fill="#333">部门</text>
+<path d="M94.5 433L94.5 37" fill="none" stroke="#333" stroke-linecap="round" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(356.661 463)" fill="#333">薪资</text>
+<path d="M94.7119 433.5L618.61 433.5" fill="none" stroke="#333" stroke-linecap="round" class="zr1-cls-0"></path>
+<path d="M94.7119 433.5L89.7119 433.5" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M94.7119 334.5L89.7119 334.5" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M94.7119 235.5L89.7119 235.5" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M94.7119 136.5L89.7119 136.5" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M94.7119 37.5L89.7119 37.5" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M94.5 433L94.5 438" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M199.5 433L199.5 438" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M304.5 433L304.5 438" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M409.5 433L409.5 438" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M514.5 433L514.5 438" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M618.5 433L618.5 438" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(86.7119 383.5)" fill="#333">Marketing</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(86.7119 284.5)" fill="#333">Sales</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(86.7119 185.5)" fill="#333">Tech</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(86.7119 86.5)" fill="#333">HR</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(94.7119 441)" fill="#333">0</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(199.4915 441)" fill="#333">3,000</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(304.2712 441)" fill="#333">6,000</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(409.0508 441)" fill="#333">9,000</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(513.8304 441)" fill="#333">12,000</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(618.61 441)" fill="#333">15,000</text>
+<path d="M241.4034 358.5L241.4034 408.5L251.8814 408.5L251.8814 358.5ZM230.9254 383.5L241.4034 383.5M251.8814 383.5M230.9254 358.5L230.9254 408.5M251.8814 358.5L251.8814 408.5M244.896 358.5L244.896 408.5" fill="rgb(0,0,0)" fill-opacity="0" stroke="#e01f54" stroke-width="1.5" class="zr1-cls-1"></path>
+<path d="M265.852 259.5L265.852 309.5L272.8373 309.5L272.8373 259.5ZM262.3593 284.5L265.852 284.5M276.3299 284.5L272.8373 284.5M262.3593 259.5L262.3593 309.5M276.3299 259.5L276.3299 309.5M269.3446 259.5L269.3446 309.5" fill="rgb(0,0,0)" fill-opacity="0" stroke="#e01f54" stroke-width="1.5" class="zr1-cls-1"></path>
+<path d="M374.1242 160.5L374.1242 210.5L391.5875 210.5L391.5875 160.5ZM367.1389 185.5L374.1242 185.5M391.5875 185.5M367.1389 160.5L367.1389 210.5M391.5875 160.5L391.5875 210.5M381.1095 160.5L381.1095 210.5" fill="rgb(0,0,0)" fill-opacity="0" stroke="#e01f54" stroke-width="1.5" class="zr1-cls-1"></path>
+<path d="M233.9815 61.5L233.9815 111.5L236.601 111.5L236.601 61.5ZM232.6718 86.5L233.9815 86.5M237.9107 86.5L236.601 86.5M232.6718 61.5L232.6718 111.5M237.9107 61.5L237.9107 111.5M235.2913 61.5L235.2913 111.5" fill="rgb(0,0,0)" fill-opacity="0" stroke="#e01f54" stroke-width="1.5" class="zr1-cls-1"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(3,0,0,3,241.4034,383.5)" fill="rgb(224,31,84)" fill-opacity="0.4" stroke="#e01f54" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-2"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(3,0,0,3,251.8814,383.5)" fill="rgb(224,31,84)" fill-opacity="0.4" stroke="#e01f54" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-2"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(3,0,0,3,244.896,383.5)" fill="rgb(224,31,84)" fill-opacity="0.4" stroke="#e01f54" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-2"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(3,0,0,3,230.9254,383.5)" fill="rgb(224,31,84)" fill-opacity="0.4" stroke="#e01f54" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-2"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(3,0,0,3,513.8304,383.5)" fill="rgb(224,31,84)" fill-opacity="0.4" stroke="#e01f54" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-2"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(3,0,0,3,269.3446,284.5)" fill="rgb(224,31,84)" fill-opacity="0.4" stroke="#e01f54" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-2"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(3,0,0,3,276.3299,284.5)" fill="rgb(224,31,84)" fill-opacity="0.4" stroke="#e01f54" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-2"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(3,0,0,3,262.3593,284.5)" fill="rgb(224,31,84)" fill-opacity="0.4" stroke="#e01f54" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-2"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(3,0,0,3,272.8373,284.5)" fill="rgb(224,31,84)" fill-opacity="0.4" stroke="#e01f54" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-2"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(3,0,0,3,265.852,284.5)" fill="rgb(224,31,84)" fill-opacity="0.4" stroke="#e01f54" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-2"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(3,0,0,3,374.1242,185.5)" fill="rgb(224,31,84)" fill-opacity="0.4" stroke="#e01f54" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-2"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(3,0,0,3,391.5875,185.5)" fill="rgb(224,31,84)" fill-opacity="0.4" stroke="#e01f54" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-2"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(3,0,0,3,381.1095,185.5)" fill="rgb(224,31,84)" fill-opacity="0.4" stroke="#e01f54" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-2"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(3,0,0,3,367.1389,185.5)" fill="rgb(224,31,84)" fill-opacity="0.4" stroke="#e01f54" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-2"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(3,0,0,3,618.61,185.5)" fill="rgb(224,31,84)" fill-opacity="0.4" stroke="#e01f54" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-2"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(3,0,0,3,234.4181,86.5)" fill="rgb(224,31,84)" fill-opacity="0.4" stroke="#e01f54" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-2"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(3,0,0,3,237.9107,86.5)" fill="rgb(224,31,84)" fill-opacity="0.4" stroke="#e01f54" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-2"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(3,0,0,3,232.6718,86.5)" fill="rgb(224,31,84)" fill-opacity="0.4" stroke="#e01f54" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-2"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(3,0,0,3,236.1644,86.5)" fill="rgb(224,31,84)" fill-opacity="0.4" stroke="#e01f54" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-2"></path>
+<path d="M-54 -5l108 0l0 24l-108 0Z" transform="translate(320 10)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#3c3c41" stroke-width="0" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:14px;font-family:sans-serif;font-weight:bold;" y="7" transform="translate(320 10)" fill="#333333">各部门薪资分布</text>
+<style ><![CDATA[
+.zr1-cls-0:hover {
+pointer-events:none;
+}
+.zr1-cls-1:hover {
+cursor:pointer;
+fill:rgba(0,0,0,0);
+stroke-width:2;
+}
+.zr1-cls-2:hover {
+cursor:pointer;
+fill:rgba(246,34,92,0.5);
+}
+
+]]>
+
+</style>
+</svg>

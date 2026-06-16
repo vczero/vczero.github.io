@@ -1,0 +1,103 @@
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 640 480">
+<rect width="640" height="480" x="0" y="0" fill="rgb(255,255,255)"></rect>
+<path d="M160.5 57L160.5 425" fill="none" stroke="#ccc" stroke-dasharray="4,2" class="zr1-cls-0"></path>
+<path d="M480.5 57L480.5 425" fill="none" stroke="#ccc" stroke-dasharray="4,2" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="-6" transform="translate(160 49)" fill="#333">2010</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="-6" transform="translate(480 49)" fill="#333">2020</text>
+<g clip-path="url(#zr1-c0)">
+<path d="M160 335.3994L480 208.2774" fill="none" stroke="#e01f54" stroke-width="2" stroke-linejoin="bevel" class="zr1-cls-2"></path>
+</g>
+<g clip-path="url(#zr1-c1)">
+<path d="M160 204.3178L480 117.4403" fill="none" stroke="#001852" stroke-width="2" stroke-linejoin="bevel" class="zr1-cls-2"></path>
+</g>
+<g clip-path="url(#zr1-c2)">
+<path d="M160 341.096L480 350.5462" fill="none" stroke="#efe1a9" stroke-width="2" stroke-linejoin="bevel" class="zr1-cls-2"></path>
+</g>
+<g clip-path="url(#zr1-c3)">
+<path d="M160 374.7018L480 368.3869" fill="none" stroke="#b8d2c7" stroke-width="2" stroke-linejoin="bevel" class="zr1-cls-2"></path>
+</g>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(4,0,0,4,160,335.3994)" fill="#e01f54" class="zr1-cls-3"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(4,0,0,4,480,208.2774)" fill="#e01f54" class="zr1-cls-3"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(4,0,0,4,160,204.3178)" fill="#001852" class="zr1-cls-4"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(4,0,0,4,480,117.4403)" fill="#001852" class="zr1-cls-4"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(4,0,0,4,160,341.096)" fill="#efe1a9" class="zr1-cls-5"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(4,0,0,4,480,350.5462)" fill="#efe1a9" class="zr1-cls-5"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(4,0,0,4,160,374.7018)" fill="#b8d2c7" class="zr1-cls-6"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(4,0,0,4,480,368.3869)" fill="#b8d2c7" class="zr1-cls-6"></path>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="translate(151 335.3994)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">China 6087</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="translate(489 208.2774)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">China 14723</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="translate(151 204.3178)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">USA 14992</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="translate(489 117.4403)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">USA 20894</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="translate(151 341.096)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Japan 5700</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="translate(489 350.5462)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Japan 5058</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="translate(151 374.7018)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Germany 3417</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" transform="translate(489 368.3869)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Germany 3846</text>
+<path d="M-5 -5l296.9359 0l0 22l-296.9359 0Z" transform="translate(176.5321 458)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#b7b9be" stroke-width="0" class="zr1-cls-0"></path>
+<path d="M0 7L25 7" transform="translate(177.5321 457)" fill="#000" stroke="#e01f54" stroke-width="2" stroke-linecap="butt" stroke-miterlimit="10" class="zr1-cls-0"></path>
+<path d="M18.1 7A5.6 5.6 0 1 1 18.1 6.9994" transform="translate(177.5321 457)" fill="#e01f54" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="30" y="7" transform="translate(177.5321 457)" fill="#333333">China</text>
+<path d="M-1 1l62.896 0l0 12l-62.896 0Z" transform="translate(177.5321 457)" fill="none" class="zr1-cls-7"></path>
+<path d="M0 7L25 7" transform="translate(248.428 457)" fill="#000" stroke="#001852" stroke-width="2" stroke-linecap="butt" stroke-miterlimit="10" class="zr1-cls-0"></path>
+<path d="M18.1 7A5.6 5.6 0 1 1 18.1 6.9994" transform="translate(248.428 457)" fill="#001852" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="30" y="7" transform="translate(248.428 457)" fill="#333333">USA</text>
+<path d="M-1 1l55.036 0l0 12l-55.036 0Z" transform="translate(248.428 457)" fill="none" class="zr1-cls-7"></path>
+<path d="M0 7L25 7" transform="translate(311.464 457)" fill="#000" stroke="#efe1a9" stroke-width="2" stroke-linecap="butt" stroke-miterlimit="10" class="zr1-cls-0"></path>
+<path d="M18.1 7A5.6 5.6 0 1 1 18.1 6.9994" transform="translate(311.464 457)" fill="#efe1a9" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="30" y="7" transform="translate(311.464 457)" fill="#333333">Japan</text>
+<path d="M-1 1l64.36 0l0 12l-64.36 0Z" transform="translate(311.464 457)" fill="none" class="zr1-cls-7"></path>
+<path d="M0 7L25 7" transform="translate(383.824 457)" fill="#000" stroke="#b8d2c7" stroke-width="2" stroke-linecap="butt" stroke-miterlimit="10" class="zr1-cls-0"></path>
+<path d="M18.1 7A5.6 5.6 0 1 1 18.1 6.9994" transform="translate(383.824 457)" fill="#b8d2c7" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="30" y="7" transform="translate(383.824 457)" fill="#333333">Germany</text>
+<path d="M-1 1l80.644 0l0 12l-80.644 0Z" transform="translate(383.824 457)" fill="none" class="zr1-cls-7"></path>
+<path d="M-105.4149 -5l210.8299 0l0 24l-210.8299 0Z" transform="translate(320 10)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#3c3c41" stroke-width="0" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:14px;font-family:sans-serif;font-weight:bold;" xml:space="preserve" y="7" transform="translate(320 10)" fill="#333333">2010-2020 主要国家 GDP 变化</text>
+<defs >
+<clipPath id="zr1-c0">
+<path d="M159 56l322 0l0 370l-322 0Z" fill="#000" class="zr1-cls-1"></path>
+</clipPath>
+<clipPath id="zr1-c1">
+<path d="M159 56l322 0l0 370l-322 0Z" fill="#000" class="zr1-cls-1"></path>
+</clipPath>
+<clipPath id="zr1-c2">
+<path d="M159 56l322 0l0 370l-322 0Z" fill="#000" class="zr1-cls-1"></path>
+</clipPath>
+<clipPath id="zr1-c3">
+<path d="M159 56l322 0l0 370l-322 0Z" fill="#000" class="zr1-cls-1"></path>
+</clipPath>
+</defs>
+<style ><![CDATA[
+.zr1-cls-0:hover {
+pointer-events:none;
+}
+.zr1-cls-1:hover {
+cursor:pointer;
+fill:rgba(0,0,0,1);
+}
+.zr1-cls-2:hover {
+cursor:pointer;
+}
+.zr1-cls-3:hover {
+cursor:pointer;
+fill:rgba(246,34,92,1);
+}
+.zr1-cls-4:hover {
+cursor:pointer;
+fill:rgba(0,26,90,1);
+}
+.zr1-cls-5:hover {
+cursor:pointer;
+fill:rgba(255,247,185,1);
+}
+.zr1-cls-6:hover {
+cursor:pointer;
+fill:rgba(202,231,218,1);
+}
+.zr1-cls-7:hover {
+cursor:pointer;
+fill:rgba(0,0,0,0);
+}
+
+]]>
+
+</style>
+</svg>

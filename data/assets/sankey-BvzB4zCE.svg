@@ -1,0 +1,63 @@
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 800 500">
+<rect width="800" height="500" x="0" y="0" fill="rgb(255,255,255)"></rect>
+<path d="M20 0C72 0 141.3333 30.0145 193.3333 30.0145L193.3333 311.2645C141.3333 311.2645 72 281.25 20 281.25Z" transform="translate(40 25)" fill="rgb(56,182,182)" fill-opacity="0.2" class="zr1-cls-0"></path>
+<path d="M20 281.25C43 281.25 73.6667 169.1359 96.6667 169.1359L96.6667 281.6359C73.6667 281.6359 43 393.75 20 393.75Z" transform="translate(40 25)" fill="rgb(56,182,182)" fill-opacity="0.2" class="zr1-cls-0"></path>
+<path d="M20 393.75C43 393.75 73.6667 289.6359 96.6667 289.6359L96.6667 345.8859C73.6667 345.8859 43 450 20 450Z" transform="translate(40 25)" fill="rgb(56,182,182)" fill-opacity="0.2" class="zr1-cls-0"></path>
+<path d="M213.3333 30.0145C265.3333 30.0145 334.6667 128.4185 386.6667 128.4185L386.6667 297.1685C334.6667 297.1685 265.3333 198.7645 213.3333 198.7645Z" transform="translate(40 25)" fill="rgb(199,124,105)" fill-opacity="0.2" class="zr1-cls-1"></path>
+<path d="M213.3333 198.7645C236.3333 198.7645 267 198.7363 290 198.7363L290 254.9863C267 254.9863 236.3333 255.0145 213.3333 255.0145Z" transform="translate(40 25)" fill="rgb(199,124,105)" fill-opacity="0.2" class="zr1-cls-1"></path>
+<path d="M116.6667 169.1359C139.6667 169.1359 170.3333 311.2645 193.3333 311.2645L193.3333 395.6395C170.3333 395.6395 139.6667 253.5109 116.6667 253.5109Z" transform="translate(40 25)" fill="rgb(200,214,190)" fill-opacity="0.2" class="zr1-cls-2"></path>
+<path d="M116.6667 289.6359C139.6667 289.6359 170.3333 395.6395 193.3333 395.6395L193.3333 423.7645C170.3333 423.7645 139.6667 317.7609 116.6667 317.7609Z" transform="translate(40 25)" fill="rgb(224,31,84)" fill-opacity="0.2" class="zr1-cls-3"></path>
+<path d="M406.6667 128.4185C429.6667 128.4185 460.3333 156.5193 483.3333 156.5193L483.3333 297.1443C460.3333 297.1443 429.6667 269.0435 406.6667 269.0435Z" transform="translate(40 25)" fill="rgb(218,138,145)" fill-opacity="0.2" class="zr1-cls-4"></path>
+<path d="M310 198.7363C333 198.7363 363.6667 297.1685 386.6667 297.1685L386.6667 325.2935C363.6667 325.2935 333 226.8613 310 226.8613Z" transform="translate(40 25)" fill="rgb(224,31,84)" fill-opacity="0.2" class="zr1-cls-3"></path>
+<path d="M503.3333 156.5193C526.3333 156.5193 557 170.563 580 170.563L580 283.063C557 283.063 526.3333 269.0193 503.3333 269.0193Z" transform="translate(40 25)" fill="rgb(196,182,146)" fill-opacity="0.2" class="zr1-cls-5"></path>
+<path d="M0 0l20 0l0 450l-20 0Z" transform="translate(40 25)" fill="rgb(56,182,182)" stroke="#ccc" stroke-width="0" class="zr1-cls-0"></path>
+<path d="M193.3333 30.0145l20 0l0 393.75l-20 0Z" transform="translate(40 25)" fill="rgb(199,124,105)" stroke="#ccc" stroke-width="0" class="zr1-cls-1"></path>
+<path d="M96.6667 169.1359l20 0l0 112.5l-20 0Z" transform="translate(40 25)" fill="rgb(200,214,190)" stroke="#ccc" stroke-width="0" class="zr1-cls-2"></path>
+<path d="M96.6667 289.6359l20 0l0 56.25l-20 0Z" transform="translate(40 25)" fill="rgb(224,31,84)" stroke="#ccc" stroke-width="0" class="zr1-cls-3"></path>
+<path d="M386.6667 128.4185l20 0l0 196.875l-20 0Z" transform="translate(40 25)" fill="rgb(218,138,145)" stroke="#ccc" stroke-width="0" class="zr1-cls-4"></path>
+<path d="M290 198.7363l20 0l0 56.25l-20 0Z" transform="translate(40 25)" fill="rgb(224,31,84)" stroke="#ccc" stroke-width="0" class="zr1-cls-3"></path>
+<path d="M483.3333 156.5193l20 0l0 140.625l-20 0Z" transform="translate(40 25)" fill="rgb(196,182,146)" stroke="#ccc" stroke-width="0" class="zr1-cls-5"></path>
+<path d="M580 170.563l20 0l0 112.5l-20 0Z" transform="translate(40 25)" fill="rgb(200,214,190)" stroke="#ccc" stroke-width="0" class="zr1-cls-2"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" y="-6" transform="translate(65 250)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Homepage</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="-6" transform="translate(258.3333 251.8895)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Product Page</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" y="-6" transform="translate(161.6667 250.3859)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Search</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" y="-6" transform="translate(161.6667 342.7609)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Blog</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" y="-6" transform="translate(451.6667 251.856)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Cart</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" y="-6" transform="translate(355 251.8613)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Wishlist</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" y="-6" transform="translate(548.3333 251.8318)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Checkout</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" y="-6" transform="translate(645 251.813)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Purchase</text>
+<path d="M-61 -5l122 0l0 24l-122 0Z" transform="translate(400 10)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#3c3c41" stroke-width="0" class="zr1-cls-6"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:14px;font-family:sans-serif;font-weight:bold;" y="7" transform="translate(400 10)" fill="#333333">电商用户路径流转</text>
+<style ><![CDATA[
+.zr1-cls-0:hover {
+cursor:pointer;
+fill:rgba(61,200,200,1);
+}
+.zr1-cls-1:hover {
+cursor:pointer;
+fill:rgba(218,136,115,1);
+}
+.zr1-cls-2:hover {
+cursor:pointer;
+fill:rgba(220,235,209,1);
+}
+.zr1-cls-3:hover {
+cursor:pointer;
+fill:rgba(246,34,92,1);
+}
+.zr1-cls-4:hover {
+cursor:pointer;
+fill:rgba(239,151,159,1);
+}
+.zr1-cls-5:hover {
+cursor:pointer;
+fill:rgba(215,200,160,1);
+}
+.zr1-cls-6:hover {
+pointer-events:none;
+}
+
+]]>
+
+</style>
+</svg>

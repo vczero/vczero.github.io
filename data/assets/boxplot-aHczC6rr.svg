@@ -1,0 +1,47 @@
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 640 480">
+<rect width="640" height="480" x="0" y="0" fill="rgb(255,255,255)"></rect>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="-6" transform="matrix(0,-1,1,0,20,235)" fill="#333">薪资</text>
+<path d="M75.5 433L75.5 37" fill="none" stroke="#333" stroke-linecap="round" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(350.34 463)" fill="#333">部门</text>
+<path d="M75.68 433.5L625 433.5" fill="none" stroke="#333" stroke-linecap="round" class="zr1-cls-0"></path>
+<path d="M75.68 433.5L70.68 433.5" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M75.68 354.5L70.68 354.5" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M75.68 274.5L70.68 274.5" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M75.68 195.5L70.68 195.5" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M75.68 116.5L70.68 116.5" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M75.68 37.5L70.68 37.5" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M75.5 433L75.5 438" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M213.5 433L213.5 438" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M350.5 433L350.5 438" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M487.5 433L487.5 438" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M625.5 433L625.5 438" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(67.68 433)" fill="#333">0</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(67.68 353.8)" fill="#333">2,000</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(67.68 274.6)" fill="#333">4,000</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(67.68 195.4)" fill="#333">6,000</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(67.68 116.2)" fill="#333">8,000</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(67.68 37)" fill="#333">10,000</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(144.345 441)" fill="#333">Marketing</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(281.675 441)" fill="#333">Sales</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(419.005 441)" fill="#333">Tech</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(556.335 441)" fill="#333">HR</text>
+<path d="M119.345 266.68L169.345 266.68L169.345 254.8L119.345 254.8ZM144.345 278.56L144.345 266.68M144.345 254.8M119.345 278.56L169.345 278.56M119.345 254.8L169.345 254.8M119.345 262.72L169.345 262.72" fill="rgb(224,31,84)" fill-opacity="0.5" stroke="#e01f54" stroke-width="1.5" class="zr1-cls-1"></path>
+<path d="M256.675 238.96L306.675 238.96L306.675 231.04L256.675 231.04ZM281.675 242.92L281.675 238.96M281.675 227.08L281.675 231.04M256.675 242.92L306.675 242.92M256.675 227.08L306.675 227.08M256.675 235L306.675 235" fill="rgb(224,31,84)" fill-opacity="0.5" stroke="#e01f54" stroke-width="1.5" class="zr1-cls-1"></path>
+<path d="M394.005 116.2L444.005 116.2L444.005 96.4L394.005 96.4ZM419.005 124.12L419.005 116.2M419.005 96.4M394.005 124.12L444.005 124.12M394.005 96.4L444.005 96.4M394.005 108.28L444.005 108.28" fill="rgb(224,31,84)" fill-opacity="0.5" stroke="#e01f54" stroke-width="1.5" class="zr1-cls-1"></path>
+<path d="M531.335 275.095L581.335 275.095L581.335 272.125L531.335 272.125ZM556.335 276.58L556.335 275.095M556.335 270.64L556.335 272.125M531.335 276.58L581.335 276.58M531.335 270.64L581.335 270.64M531.335 273.61L581.335 273.61" fill="rgb(224,31,84)" fill-opacity="0.5" stroke="#e01f54" stroke-width="1.5" class="zr1-cls-1"></path>
+<path d="M-54 -5l108 0l0 24l-108 0Z" transform="translate(320 10)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#3c3c41" stroke-width="0" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:14px;font-family:sans-serif;font-weight:bold;" y="7" transform="translate(320 10)" fill="#333333">各部门薪资分布</text>
+<style ><![CDATA[
+.zr1-cls-0:hover {
+pointer-events:none;
+}
+.zr1-cls-1:hover {
+cursor:pointer;
+fill:rgba(246,34,92,0.5);
+stroke-width:2;
+}
+
+]]>
+
+</style>
+</svg>

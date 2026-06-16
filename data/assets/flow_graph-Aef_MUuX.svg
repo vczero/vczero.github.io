@@ -1,0 +1,48 @@
+<svg width="640" height="640" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 640 640">
+<rect width="640" height="640" x="0" y="0" fill="rgb(255,255,255)"></rect>
+<path d="M541.7025 448Q337.9041 342.7225 320.9269 561.0289" fill="none" stroke="#e01f54" stroke-width="3.3333333333333335" stroke-opacity="0.5" class="zr1-cls-0"></path>
+<path d="M0 0L6.6667 10L0 7.5L-6.6667 10L0 0Z" transform="matrix(-0.997,-0.078,0.078,-0.997,320.9269,561.0289)" fill="#e01f54" fill-opacity="0.5" class="zr1-cls-1"></path>
+<path d="M541.7025 448Q326.6977 336.2802 111.6928 441.2499" fill="none" stroke="#e01f54" stroke-width="1.6666666666666665" stroke-opacity="0.5" class="zr1-cls-0"></path>
+<path d="M0 0L6.6667 10L0 7.5L-6.6667 10L0 0Z" transform="matrix(-0.439,-0.899,0.899,-0.439,111.6928,441.2499)" fill="#e01f54" fill-opacity="0.5" class="zr1-cls-1"></path>
+<path d="M320 576Q309.2498 333.9404 110.8409 200.2256" fill="none" stroke="#e01f54" stroke-width="5" stroke-opacity="0.5" class="zr1-cls-0"></path>
+<path d="M0 0L6.6667 10L0 7.5L-6.6667 10L0 0Z" transform="matrix(0.559,-0.829,0.829,0.559,110.8409,200.2256)" fill="#e01f54" fill-opacity="0.5" class="zr1-cls-1"></path>
+<path d="M98.2975 448Q291.3697 324.1441 110.7993 200.2883" fill="none" stroke="#e01f54" stroke-width="2.666666666666667" stroke-opacity="0.5" class="zr1-cls-0"></path>
+<path d="M0 0L6.6667 10L0 7.5L-6.6667 10L0 0Z" transform="matrix(0.566,-0.825,0.825,0.566,110.7993,200.2883)" fill="#e01f54" fill-opacity="0.5" class="zr1-cls-1"></path>
+<path d="M98.2975 448Q302.5521 317.6602 319.1481 78.9758" fill="none" stroke="#e01f54" stroke-width="4" stroke-opacity="0.5" class="zr1-cls-0"></path>
+<path d="M0 0L6.6667 10L0 7.5L-6.6667 10L0 0Z" transform="matrix(0.998,0.069,-0.069,0.998,319.1481,78.9758)" fill="#e01f54" fill-opacity="0.5" class="zr1-cls-1"></path>
+<path d="M98.2975 192Q302.0959 297.2775 319.0731 78.9711" fill="none" stroke="#e01f54" stroke-width="2" stroke-opacity="0.5" class="zr1-cls-0"></path>
+<path d="M0 0L6.6667 10L0 7.5L-6.6667 10L0 0Z" transform="matrix(0.997,0.078,-0.078,0.997,319.0731,78.9711)" fill="#e01f54" fill-opacity="0.5" class="zr1-cls-1"></path>
+<path d="M320 64Q330.7262 293.1333 528.2737 198.6828" fill="none" stroke="#e01f54" stroke-width="1.3333333333333333" stroke-opacity="0.5" class="zr1-cls-0"></path>
+<path d="M0 0L6.6667 10L0 7.5L-6.6667 10L0 0Z" transform="matrix(0.431,0.902,-0.902,0.431,528.2737,198.6828)" fill="#e01f54" fill-opacity="0.5" class="zr1-cls-1"></path>
+<path d="M541.7025 192Q348.6303 315.8559 529.2007 439.7117" fill="none" stroke="#e01f54" stroke-opacity="0.5" class="zr1-cls-0"></path>
+<path d="M0 0L6.6667 10L0 7.5L-6.6667 10L0 0Z" transform="matrix(-0.566,0.825,-0.825,-0.566,529.2007,439.7117)" fill="#e01f54" fill-opacity="0.5" class="zr1-cls-1"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(15,0,0,15,541.7025,448)" fill="#e01f54" stroke="#ccc" stroke-width="0" class="zr1-cls-1"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(15,0,0,15,320,576)" fill="#e01f54" stroke="#ccc" stroke-width="0" class="zr1-cls-1"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(15,0,0,15,98.2975,448)" fill="#e01f54" stroke="#ccc" stroke-width="0" class="zr1-cls-1"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(15,0,0,15,98.2975,192)" fill="#e01f54" stroke="#ccc" stroke-width="0" class="zr1-cls-1"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(15,0,0,15,320,64)" fill="#e01f54" stroke="#ccc" stroke-width="0" class="zr1-cls-1"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(15,0,0,15,541.7025,192)" fill="#e01f54" stroke="#ccc" stroke-width="0" class="zr1-cls-1"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="translate(561.7025 448)" fill="#666">NodeA</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="translate(340 576)" fill="#666">NodeB</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="translate(118.2975 448)" fill="#666">NodeC</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="translate(118.2975 192)" fill="#666">NodeD</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="translate(340 64)" fill="#666">NodeE</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="translate(561.7025 192)" fill="#666">NodeF</text>
+<path d="M-47 -5l94 0l0 24l-94 0Z" transform="translate(320 10)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#3c3c41" stroke-width="0" class="zr1-cls-2"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:14px;font-family:sans-serif;font-weight:bold;" y="7" transform="translate(320 10)" fill="#333333">节点流量分布</text>
+<style ><![CDATA[
+.zr1-cls-0:hover {
+cursor:pointer;
+}
+.zr1-cls-1:hover {
+cursor:pointer;
+fill:rgba(246,34,92,1);
+}
+.zr1-cls-2:hover {
+pointer-events:none;
+}
+
+]]>
+
+</style>
+</svg>

@@ -1,0 +1,128 @@
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 640 480">
+<rect width="640" height="480" x="0" y="0" fill="rgb(255,255,255)"></rect>
+<path d="M60 37l565 0l0 368l-565 0Z" fill="rgb(0,0,0)" fill-opacity="0" stroke="#b7b9be" class="zr1-cls-0"></path>
+<path d="M60 405.5L625 405.5" fill="none" stroke="#ccc" class="zr1-cls-0"></path>
+<path d="M60 343.5L625 343.5" fill="none" stroke="#ccc" class="zr1-cls-0"></path>
+<path d="M60 282.5L625 282.5" fill="none" stroke="#ccc" class="zr1-cls-0"></path>
+<path d="M60 221.5L625 221.5" fill="none" stroke="#ccc" class="zr1-cls-0"></path>
+<path d="M60 159.5L625 159.5" fill="none" stroke="#ccc" class="zr1-cls-0"></path>
+<path d="M60 98.5L625 98.5" fill="none" stroke="#ccc" class="zr1-cls-0"></path>
+<path d="M60 37.5L625 37.5" fill="none" stroke="#ccc" class="zr1-cls-0"></path>
+<path d="M60.5 37L60.5 405" fill="none" stroke="#ccc" class="zr1-cls-0"></path>
+<path d="M154.5 37L154.5 405" fill="none" stroke="#ccc" class="zr1-cls-0"></path>
+<path d="M248.5 37L248.5 405" fill="none" stroke="#ccc" class="zr1-cls-0"></path>
+<path d="M342.5 37L342.5 405" fill="none" stroke="#ccc" class="zr1-cls-0"></path>
+<path d="M436.5 37L436.5 405" fill="none" stroke="#ccc" class="zr1-cls-0"></path>
+<path d="M531.5 37L531.5 405" fill="none" stroke="#ccc" class="zr1-cls-0"></path>
+<path d="M625.5 37L625.5 405" fill="none" stroke="#ccc" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="-6" transform="matrix(0,-1,1,0,20,221)" fill="#333">油耗 (L/100km)</text>
+<path d="M60.5 405L60.5 37" fill="none" stroke="#333" stroke-linecap="round" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="6" transform="translate(342.5 435)" fill="#333">车速 (km/h)</text>
+<path d="M60 405.5L625 405.5" fill="none" stroke="#333" stroke-linecap="round" class="zr1-cls-0"></path>
+<path d="M60 405.5L55 405.5" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M60 343.5L55 343.5" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M60 282.5L55 282.5" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M60 221.5L55 221.5" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M60 159.5L55 159.5" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M60 98.5L55 98.5" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M60 37.5L55 37.5" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M60.5 405L60.5 410" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M154.5 405L154.5 410" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M248.5 405L248.5 410" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M342.5 405L342.5 410" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M436.5 405L436.5 410" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M531.5 405L531.5 410" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M625.5 405L625.5 410" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(52 405)" fill="#333">4</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(52 343.6667)" fill="#333">6</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(52 282.3333)" fill="#333">8</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(52 221)" fill="#333">10</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(52 159.6667)" fill="#333">12</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(52 98.3333)" fill="#333">14</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(52 37)" fill="#333">16</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(60 413)" fill="#333">20</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(154.1667 413)" fill="#333">40</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(248.3333 413)" fill="#333">60</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(342.5 413)" fill="#333">80</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(436.6667 413)" fill="#333">100</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(530.8333 413)" fill="#333">120</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(625 413)" fill="#333">140</text>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,60,144.3333)" fill="#e01f54" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-1"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,107.0833,221)" fill="#e01f54" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-1"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,154.1667,267)" fill="#e01f54" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-1"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,201.25,306.8667)" fill="#e01f54" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-1"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,248.3333,328.3333)" fill="#e01f54" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-1"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,295.4167,343.6667)" fill="#e01f54" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-1"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,342.5,349.8)" fill="#e01f54" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-1"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,389.5833,337.5333)" fill="#e01f54" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-1"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,436.6667,313)" fill="#e01f54" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-1"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,483.75,276.2)" fill="#e01f54" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-1"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,530.8333,227.1333)" fill="#e01f54" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-1"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,577.9167,175)" fill="#e01f54" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-1"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,60,67.6667)" fill="#001852" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-2"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,130.625,159.6667)" fill="#001852" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-2"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,201.25,236.3333)" fill="#001852" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-2"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,271.875,276.2)" fill="#001852" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-2"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,342.5,288.4667)" fill="#001852" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-2"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,413.125,267)" fill="#001852" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-2"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,483.75,221)" fill="#001852" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-2"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,554.375,144.3333)" fill="#001852" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-2"></path>
+<g clip-path="url(#zr1-c0)">
+<path d="M60 150.5341L107.0833 214.3183L154.1667 265.7102L201.25 304.7099L248.3333 331.3173L295.4167 345.5324L342.5 347.3553L389.5833 336.7858L436.6667 313.8241L483.75 278.4701L530.8333 230.7239L577.9167 170.5853" fill="none" stroke="#efe1a9" stroke-width="2" stroke-opacity="0.7" stroke-dasharray="8,4" stroke-linejoin="bevel" class="zr1-cls-4"></path>
+</g>
+<g clip-path="url(#zr1-c1)">
+<path d="M60 65.2389L130.625 164.6865L201.25 234.7452L271.875 275.4151L342.5 286.696L413.125 268.5881L483.75 221.0913L554.375 144.2056" fill="none" stroke="#b8d2c7" stroke-width="2" stroke-opacity="0.7" stroke-dasharray="8,4" stroke-linejoin="bevel" class="zr1-cls-4"></path>
+</g>
+<path d="M-5 -5l320.632 0l0 24l-320.632 0Z" transform="translate(164.684 456)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#b7b9be" stroke-width="0" class="zr1-cls-0"></path>
+<path d="M19.5 7A7 7 0 1 1 19.5 6.9993" transform="translate(159.184 456)" fill="#e01f54" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" stroke-linecap="butt" stroke-miterlimit="10" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="30" y="7" transform="translate(159.184 456)" fill="#333333">轿车</text>
+<path d="M5.5 0l48.5 0l0 14l-48.5 0Z" transform="translate(159.184 456)" fill="none" class="zr1-cls-5"></path>
+<path d="M19.5 7A7 7 0 1 1 19.5 6.9993" transform="translate(215.684 456)" fill="#001852" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" stroke-linecap="butt" stroke-miterlimit="10" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="30" y="7" transform="translate(215.684 456)" fill="#333333">SUV</text>
+<path d="M5.5 0l48.32 0l0 14l-48.32 0Z" transform="translate(215.684 456)" fill="none" class="zr1-cls-5"></path>
+<path d="M0 7L25 7" transform="translate(278.504 456)" fill="#000" fill-opacity="0.7" stroke="#efe1a9" stroke-width="2" stroke-opacity="0.7" stroke-dasharray="8,4" stroke-linecap="butt" stroke-miterlimit="10" class="zr1-cls-0"></path>
+<path d="M18.1 7A5.6 5.6 0 1 1 18.1 6.9994" transform="translate(278.504 456)" fill="#efe1a9" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" x="30" y="7" transform="translate(278.504 456)" fill="#333333">轿车 趋势线</text>
+<path d="M-1 1l94.996 0l0 12l-94.996 0Z" transform="translate(278.504 456)" fill="none" class="zr1-cls-5"></path>
+<path d="M0 7L25 7" transform="translate(381.5 456)" fill="#000" fill-opacity="0.7" stroke="#b8d2c7" stroke-width="2" stroke-opacity="0.7" stroke-dasharray="8,4" stroke-linecap="butt" stroke-miterlimit="10" class="zr1-cls-0"></path>
+<path d="M18.1 7A5.6 5.6 0 1 1 18.1 6.9994" transform="translate(381.5 456)" fill="#b8d2c7" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" x="30" y="7" transform="translate(381.5 456)" fill="#333333">SUV 趋势线</text>
+<path d="M-1 1l94.816 0l0 12l-94.816 0Z" transform="translate(381.5 456)" fill="none" class="zr1-cls-5"></path>
+<path d="M-87.131 -5l174.2619 0l0 24l-174.2619 0Z" transform="translate(320 10)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#3c3c41" stroke-width="0" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:14px;font-family:sans-serif;font-weight:bold;" xml:space="preserve" y="7" transform="translate(320 10)" fill="#333333">车速与油耗关系 (U型曲线)</text>
+<defs >
+<clipPath id="zr1-c0">
+<path d="M58 36l568 0l0 370l-568 0Z" fill="#000" class="zr1-cls-3"></path>
+</clipPath>
+<clipPath id="zr1-c1">
+<path d="M58 36l568 0l0 370l-568 0Z" fill="#000" class="zr1-cls-3"></path>
+</clipPath>
+</defs>
+<style ><![CDATA[
+.zr1-cls-0:hover {
+pointer-events:none;
+}
+.zr1-cls-1:hover {
+cursor:pointer;
+fill:rgba(246,34,92,1);
+}
+.zr1-cls-2:hover {
+cursor:pointer;
+fill:rgba(0,26,90,1);
+}
+.zr1-cls-3:hover {
+cursor:pointer;
+fill:rgba(0,0,0,1);
+}
+.zr1-cls-4:hover {
+cursor:pointer;
+}
+.zr1-cls-5:hover {
+cursor:pointer;
+fill:rgba(0,0,0,0);
+}
+
+]]>
+
+</style>
+</svg>

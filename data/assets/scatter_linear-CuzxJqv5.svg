@@ -1,0 +1,129 @@
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 640 480">
+<rect width="640" height="480" x="0" y="0" fill="rgb(255,255,255)"></rect>
+<path d="M60 37l565 0l0 368l-565 0Z" fill="rgb(0,0,0)" fill-opacity="0" stroke="#b7b9be" class="zr1-cls-0"></path>
+<path d="M60 405.5L625 405.5" fill="none" stroke="#ccc" class="zr1-cls-0"></path>
+<path d="M60 352.5L625 352.5" fill="none" stroke="#ccc" class="zr1-cls-0"></path>
+<path d="M60 300.5L625 300.5" fill="none" stroke="#ccc" class="zr1-cls-0"></path>
+<path d="M60 247.5L625 247.5" fill="none" stroke="#ccc" class="zr1-cls-0"></path>
+<path d="M60 194.5L625 194.5" fill="none" stroke="#ccc" class="zr1-cls-0"></path>
+<path d="M60 142.5L625 142.5" fill="none" stroke="#ccc" class="zr1-cls-0"></path>
+<path d="M60 89.5L625 89.5" fill="none" stroke="#ccc" class="zr1-cls-0"></path>
+<path d="M60 37.5L625 37.5" fill="none" stroke="#ccc" class="zr1-cls-0"></path>
+<path d="M60.5 37L60.5 405" fill="none" stroke="#ccc" class="zr1-cls-0"></path>
+<path d="M154.5 37L154.5 405" fill="none" stroke="#ccc" class="zr1-cls-0"></path>
+<path d="M248.5 37L248.5 405" fill="none" stroke="#ccc" class="zr1-cls-0"></path>
+<path d="M342.5 37L342.5 405" fill="none" stroke="#ccc" class="zr1-cls-0"></path>
+<path d="M436.5 37L436.5 405" fill="none" stroke="#ccc" class="zr1-cls-0"></path>
+<path d="M531.5 37L531.5 405" fill="none" stroke="#ccc" class="zr1-cls-0"></path>
+<path d="M625.5 37L625.5 405" fill="none" stroke="#ccc" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="-6" transform="matrix(0,-1,1,0,20,221)" fill="#333">销售额 (万元)</text>
+<path d="M60.5 405L60.5 37" fill="none" stroke="#333" stroke-linecap="round" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="6" transform="translate(342.5 435)" fill="#333">广告投入 (万元)</text>
+<path d="M60 405.5L625 405.5" fill="none" stroke="#333" stroke-linecap="round" class="zr1-cls-0"></path>
+<path d="M60 405.5L55 405.5" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M60 352.5L55 352.5" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M60 300.5L55 300.5" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M60 247.5L55 247.5" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M60 194.5L55 194.5" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M60 142.5L55 142.5" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M60 89.5L55 89.5" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M60 37.5L55 37.5" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M60.5 405L60.5 410" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M154.5 405L154.5 410" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M248.5 405L248.5 410" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M342.5 405L342.5 410" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M436.5 405L436.5 410" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M531.5 405L531.5 410" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M625.5 405L625.5 410" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(52 405)" fill="#333">0</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(52 352.4286)" fill="#333">30</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(52 299.8571)" fill="#333">60</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(52 247.2857)" fill="#333">90</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(52 194.7143)" fill="#333">120</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(52 142.1429)" fill="#333">150</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(52 89.5714)" fill="#333">180</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(52 37)" fill="#333">210</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(60 413)" fill="#333">0</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(154.1667 413)" fill="#333">20</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(248.3333 413)" fill="#333">40</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(342.5 413)" fill="#333">60</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(436.6667 413)" fill="#333">80</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(530.8333 413)" fill="#333">100</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(625 413)" fill="#333">120</text>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,107.0833,361.1905)" fill="#e01f54" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-1"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,130.625,338.4095)" fill="#e01f54" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-1"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,154.1667,326.1429)" fill="#e01f54" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-1"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,201.25,296.3524)" fill="#e01f54" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-1"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,248.3333,256.0476)" fill="#e01f54" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-1"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,295.4167,238.5238)" fill="#e01f54" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-1"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,342.5,203.4762)" fill="#e01f54" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-1"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,436.6667,133.381)" fill="#e01f54" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-1"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,530.8333,72.0476)" fill="#e01f54" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-1"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,116.5,369.9524)" fill="#001852" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-2"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,144.75,348.9238)" fill="#001852" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-2"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,177.7083,334.9048)" fill="#001852" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-2"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,224.7917,308.619)" fill="#001852" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-2"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,271.875,273.5714)" fill="#001852" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-2"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,318.9583,250.7905)" fill="#001852" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-2"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,389.5833,194.7143)" fill="#001852" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-2"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,483.75,124.619)" fill="#001852" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-2"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,577.9167,63.2857)" fill="#001852" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-2"></path>
+<g clip-path="url(#zr1-c0)">
+<path d="M107.0833 358.3399L130.625 342.475L154.1667 326.6102L201.25 294.8804L248.3333 263.1506L295.4167 231.4208L342.5 199.691L436.6667 136.2315L530.8333 72.7719" fill="none" stroke="#efe1a9" stroke-width="2" stroke-opacity="0.7" stroke-dasharray="8,4" stroke-linejoin="bevel" class="zr1-cls-4"></path>
+</g>
+<g clip-path="url(#zr1-c1)">
+<path d="M116.5 375.2255L144.75 356.3452L177.7083 334.3181L224.7917 302.8507L271.875 271.3835L318.9583 239.9162L389.5833 192.7152L483.75 129.7806L577.9167 66.846" fill="none" stroke="#b8d2c7" stroke-width="2" stroke-opacity="0.7" stroke-dasharray="8,4" stroke-linejoin="bevel" class="zr1-cls-4"></path>
+</g>
+<path d="M-5 -5l416.992 0l0 24l-416.992 0Z" transform="translate(116.504 456)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#b7b9be" stroke-width="0" class="zr1-cls-0"></path>
+<path d="M19.5 7A7 7 0 1 1 19.5 6.9993" transform="translate(111.004 456)" fill="#e01f54" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" stroke-linecap="butt" stroke-miterlimit="10" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="30" y="7" transform="translate(111.004 456)" fill="#333333">线上推广</text>
+<path d="M5.5 0l72.5 0l0 14l-72.5 0Z" transform="translate(111.004 456)" fill="none" class="zr1-cls-5"></path>
+<path d="M19.5 7A7 7 0 1 1 19.5 6.9993" transform="translate(191.504 456)" fill="#001852" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" stroke-linecap="butt" stroke-miterlimit="10" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="30" y="7" transform="translate(191.504 456)" fill="#333333">电视广告</text>
+<path d="M5.5 0l72.5 0l0 14l-72.5 0Z" transform="translate(191.504 456)" fill="none" class="zr1-cls-5"></path>
+<path d="M0 7L25 7" transform="translate(278.504 456)" fill="#000" fill-opacity="0.7" stroke="#efe1a9" stroke-width="2" stroke-opacity="0.7" stroke-dasharray="8,4" stroke-linecap="butt" stroke-miterlimit="10" class="zr1-cls-0"></path>
+<path d="M18.1 7A5.6 5.6 0 1 1 18.1 6.9994" transform="translate(278.504 456)" fill="#efe1a9" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" x="30" y="7" transform="translate(278.504 456)" fill="#333333">线上推广 趋势线</text>
+<path d="M-1 1l118.996 0l0 12l-118.996 0Z" transform="translate(278.504 456)" fill="none" class="zr1-cls-5"></path>
+<path d="M0 7L25 7" transform="translate(405.5 456)" fill="#000" fill-opacity="0.7" stroke="#b8d2c7" stroke-width="2" stroke-opacity="0.7" stroke-dasharray="8,4" stroke-linecap="butt" stroke-miterlimit="10" class="zr1-cls-0"></path>
+<path d="M18.1 7A5.6 5.6 0 1 1 18.1 6.9994" transform="translate(405.5 456)" fill="#b8d2c7" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" x="30" y="7" transform="translate(405.5 456)" fill="#333333">电视广告 趋势线</text>
+<path d="M-1 1l118.996 0l0 12l-118.996 0Z" transform="translate(405.5 456)" fill="none" class="zr1-cls-5"></path>
+<path d="M-89 -5l178 0l0 24l-178 0Z" transform="translate(320 10)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#3c3c41" stroke-width="0" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:14px;font-family:sans-serif;font-weight:bold;" y="7" transform="translate(320 10)" fill="#333333">广告投入与销售额线性分析</text>
+<defs >
+<clipPath id="zr1-c0">
+<path d="M58 36l568 0l0 370l-568 0Z" fill="#000" class="zr1-cls-3"></path>
+</clipPath>
+<clipPath id="zr1-c1">
+<path d="M58 36l568 0l0 370l-568 0Z" fill="#000" class="zr1-cls-3"></path>
+</clipPath>
+</defs>
+<style ><![CDATA[
+.zr1-cls-0:hover {
+pointer-events:none;
+}
+.zr1-cls-1:hover {
+cursor:pointer;
+fill:rgba(246,34,92,1);
+}
+.zr1-cls-2:hover {
+cursor:pointer;
+fill:rgba(0,26,90,1);
+}
+.zr1-cls-3:hover {
+cursor:pointer;
+fill:rgba(0,0,0,1);
+}
+.zr1-cls-4:hover {
+cursor:pointer;
+}
+.zr1-cls-5:hover {
+cursor:pointer;
+fill:rgba(0,0,0,0);
+}
+
+]]>
+
+</style>
+</svg>

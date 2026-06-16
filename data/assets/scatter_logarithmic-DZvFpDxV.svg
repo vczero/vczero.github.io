@@ -1,0 +1,124 @@
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 640 480">
+<rect width="640" height="480" x="0" y="0" fill="rgb(255,255,255)"></rect>
+<path d="M60 37l565 0l0 368l-565 0Z" fill="rgb(0,0,0)" fill-opacity="0" stroke="#b7b9be" class="zr1-cls-0"></path>
+<path d="M60 405.5L625 405.5" fill="none" stroke="#ccc" class="zr1-cls-0"></path>
+<path d="M60 343.5L625 343.5" fill="none" stroke="#ccc" class="zr1-cls-0"></path>
+<path d="M60 282.5L625 282.5" fill="none" stroke="#ccc" class="zr1-cls-0"></path>
+<path d="M60 221.5L625 221.5" fill="none" stroke="#ccc" class="zr1-cls-0"></path>
+<path d="M60 159.5L625 159.5" fill="none" stroke="#ccc" class="zr1-cls-0"></path>
+<path d="M60 98.5L625 98.5" fill="none" stroke="#ccc" class="zr1-cls-0"></path>
+<path d="M60 37.5L625 37.5" fill="none" stroke="#ccc" class="zr1-cls-0"></path>
+<path d="M60.5 37L60.5 405" fill="none" stroke="#ccc" class="zr1-cls-0"></path>
+<path d="M173.5 37L173.5 405" fill="none" stroke="#ccc" class="zr1-cls-0"></path>
+<path d="M286.5 37L286.5 405" fill="none" stroke="#ccc" class="zr1-cls-0"></path>
+<path d="M399.5 37L399.5 405" fill="none" stroke="#ccc" class="zr1-cls-0"></path>
+<path d="M512.5 37L512.5 405" fill="none" stroke="#ccc" class="zr1-cls-0"></path>
+<path d="M625.5 37L625.5 405" fill="none" stroke="#ccc" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="-6" transform="matrix(0,-1,1,0,20,221)" fill="#333">技能评分</text>
+<path d="M60.5 405L60.5 37" fill="none" stroke="#333" stroke-linecap="round" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" y="6" transform="translate(342.5 435)" fill="#333">练习时长 (小时)</text>
+<path d="M60 405.5L625 405.5" fill="none" stroke="#333" stroke-linecap="round" class="zr1-cls-0"></path>
+<path d="M60 405.5L55 405.5" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M60 343.5L55 343.5" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M60 282.5L55 282.5" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M60 221.5L55 221.5" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M60 159.5L55 159.5" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M60 98.5L55 98.5" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M60 37.5L55 37.5" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M60.5 405L60.5 410" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M173.5 405L173.5 410" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M286.5 405L286.5 410" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M399.5 405L399.5 410" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M512.5 405L512.5 410" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M625.5 405L625.5 410" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(52 405)" fill="#333">0</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(52 343.6667)" fill="#333">20</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(52 282.3333)" fill="#333">40</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(52 221)" fill="#333">60</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(52 159.6667)" fill="#333">80</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(52 98.3333)" fill="#333">100</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(52 37)" fill="#333">120</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(60 413)" fill="#333">0</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(173 413)" fill="#333">30</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(286 413)" fill="#333">60</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(399 413)" fill="#333">90</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(512 413)" fill="#333">120</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(625 413)" fill="#333">150</text>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,63.7667,343.6667)" fill="#e01f54" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-1"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,67.5333,297.6667)" fill="#e01f54" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-1"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,78.8333,236.3333)" fill="#e01f54" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-1"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,97.6667,196.4667)" fill="#e01f54" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-1"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,135.3333,165.8)" fill="#e01f54" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-1"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,173,150.4667)" fill="#e01f54" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-1"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,248.3333,135.1333)" fill="#e01f54" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-1"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,361.3333,122.8667)" fill="#e01f54" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-1"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,436.6667,116.7333)" fill="#e01f54" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-1"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,625,110.6)" fill="#e01f54" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-1"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,63.7667,359)" fill="#001852" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-2"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,71.3,319.1333)" fill="#001852" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-2"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,82.6,267)" fill="#001852" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-2"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,105.2,221)" fill="#001852" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-2"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,154.1667,184.2)" fill="#001852" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-2"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,210.6667,162.7333)" fill="#001852" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-2"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,286,147.4)" fill="#001852" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-2"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,399,132.0667)" fill="#001852" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-2"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(5,0,0,5,512,122.8667)" fill="#001852" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" class="zr1-cls-2"></path>
+<g clip-path="url(#zr1-c0)">
+<path d="M63.7667 322.1273L67.5333 289.8687L78.8333 247.2253L97.6667 214.9668L135.3333 182.7083L173 163.8383L248.3333 140.0648L361.3333 118.1912L436.6667 107.8063L625 88.9363" fill="none" stroke="#efe1a9" stroke-width="2" stroke-opacity="0.7" stroke-dasharray="8,4" stroke-linejoin="bevel" class="zr1-cls-4"></path>
+</g>
+<g clip-path="url(#zr1-c1)">
+<path d="M63.7667 360.6602L71.3 303.7045L82.6 267.7694L105.2 231.8344L154.1667 193.7831L210.6667 169.4165L286 148.3959L399 127.3752L512 112.4608" fill="none" stroke="#b8d2c7" stroke-width="2" stroke-opacity="0.7" stroke-dasharray="8,4" stroke-linejoin="bevel" class="zr1-cls-4"></path>
+</g>
+<path d="M-5 -5l416.992 0l0 24l-416.992 0Z" transform="translate(116.504 456)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#b7b9be" stroke-width="0" class="zr1-cls-0"></path>
+<path d="M19.5 7A7 7 0 1 1 19.5 6.9993" transform="translate(111.004 456)" fill="#e01f54" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" stroke-linecap="butt" stroke-miterlimit="10" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="30" y="7" transform="translate(111.004 456)" fill="#333333">普通学员</text>
+<path d="M5.5 0l72.5 0l0 14l-72.5 0Z" transform="translate(111.004 456)" fill="none" class="zr1-cls-5"></path>
+<path d="M19.5 7A7 7 0 1 1 19.5 6.9993" transform="translate(191.504 456)" fill="#001852" fill-opacity="0.8" stroke="#ccc" stroke-width="0" stroke-opacity="0.8" stroke-linecap="butt" stroke-miterlimit="10" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="30" y="7" transform="translate(191.504 456)" fill="#333333">入门困难</text>
+<path d="M5.5 0l72.5 0l0 14l-72.5 0Z" transform="translate(191.504 456)" fill="none" class="zr1-cls-5"></path>
+<path d="M0 7L25 7" transform="translate(278.504 456)" fill="#000" fill-opacity="0.7" stroke="#efe1a9" stroke-width="2" stroke-opacity="0.7" stroke-dasharray="8,4" stroke-linecap="butt" stroke-miterlimit="10" class="zr1-cls-0"></path>
+<path d="M18.1 7A5.6 5.6 0 1 1 18.1 6.9994" transform="translate(278.504 456)" fill="#efe1a9" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" x="30" y="7" transform="translate(278.504 456)" fill="#333333">普通学员 趋势线</text>
+<path d="M-1 1l118.996 0l0 12l-118.996 0Z" transform="translate(278.504 456)" fill="none" class="zr1-cls-5"></path>
+<path d="M0 7L25 7" transform="translate(405.5 456)" fill="#000" fill-opacity="0.7" stroke="#b8d2c7" stroke-width="2" stroke-opacity="0.7" stroke-dasharray="8,4" stroke-linecap="butt" stroke-miterlimit="10" class="zr1-cls-0"></path>
+<path d="M18.1 7A5.6 5.6 0 1 1 18.1 6.9994" transform="translate(405.5 456)" fill="#b8d2c7" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" xml:space="preserve" x="30" y="7" transform="translate(405.5 456)" fill="#333333">入门困难 趋势线</text>
+<path d="M-1 1l118.996 0l0 12l-118.996 0Z" transform="translate(405.5 456)" fill="none" class="zr1-cls-5"></path>
+<path d="M-81.993 -5l163.986 0l0 24l-163.986 0Z" transform="translate(320 10)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#3c3c41" stroke-width="0" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:14px;font-family:sans-serif;font-weight:bold;" xml:space="preserve" y="7" transform="translate(320 10)" fill="#333333">学习曲线 (边际效应递减)</text>
+<defs >
+<clipPath id="zr1-c0">
+<path d="M58 36l568 0l0 370l-568 0Z" fill="#000" class="zr1-cls-3"></path>
+</clipPath>
+<clipPath id="zr1-c1">
+<path d="M58 36l568 0l0 370l-568 0Z" fill="#000" class="zr1-cls-3"></path>
+</clipPath>
+</defs>
+<style ><![CDATA[
+.zr1-cls-0:hover {
+pointer-events:none;
+}
+.zr1-cls-1:hover {
+cursor:pointer;
+fill:rgba(246,34,92,1);
+}
+.zr1-cls-2:hover {
+cursor:pointer;
+fill:rgba(0,26,90,1);
+}
+.zr1-cls-3:hover {
+cursor:pointer;
+fill:rgba(0,0,0,1);
+}
+.zr1-cls-4:hover {
+cursor:pointer;
+}
+.zr1-cls-5:hover {
+cursor:pointer;
+fill:rgba(0,0,0,0);
+}
+
+]]>
+
+</style>
+</svg>

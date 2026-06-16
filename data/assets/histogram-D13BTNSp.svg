@@ -1,0 +1,82 @@
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 640 480">
+<rect width="640" height="480" x="0" y="0" fill="rgb(255,255,255)"></rect>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="-6" transform="matrix(0,-1,1,0,20,235)" fill="#333">频数</text>
+<path d="M60.5 433L60.5 37" fill="none" stroke="#333" stroke-linecap="round" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(342.5 463)" fill="#333">分数区间</text>
+<path d="M60 433.5L625 433.5" fill="none" stroke="#333" stroke-linecap="round" class="zr1-cls-0"></path>
+<path d="M60 433.5L55 433.5" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M60 376.5L55 376.5" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M60 320.5L55 320.5" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M60 263.5L55 263.5" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M60 206.5L55 206.5" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M60 150.5L55 150.5" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M60 93.5L55 93.5" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M60 37.5L55 37.5" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M60.5 433L60.5 438" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M111.5 433L111.5 438" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M162.5 433L162.5 438" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M214.5 433L214.5 438" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M265.5 433L265.5 438" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M317.5 433L317.5 438" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M368.5 433L368.5 438" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M419.5 433L419.5 438" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M471.5 433L471.5 438" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M522.5 433L522.5 438" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M573.5 433L573.5 438" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<path d="M625.5 433L625.5 438" fill="none" stroke="#333" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(52 433)" fill="#333">0</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(52 376.4286)" fill="#333">1</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(52 319.8571)" fill="#333">2</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(52 263.2857)" fill="#333">3</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(52 206.7143)" fill="#333">4</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(52 150.1429)" fill="#333">5</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(52 93.5714)" fill="#333">6</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(52 37)" fill="#333">7</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(85.6818 441)" fill="#333">53</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(137.0455 441)" fill="#333">58</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(188.4091 441)" fill="#333">63</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(239.7727 441)" fill="#333">68</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(291.1364 441)" fill="#333">73</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(342.5 441)" fill="#333">78</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(393.8636 441)" fill="#333">83</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(445.2273 441)" fill="#333">88</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(496.5909 441)" fill="#333">93</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(547.9545 441)" fill="#333">98</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(599.3182 441)" fill="#333">103</text>
+<path d="M60.1798 433l51.0041 0l0 0l-51.0041 0Z" fill="#e01f54" class="zr1-cls-1"></path>
+<path d="M111.5434 433l51.0041 0l0 -56.5714l-51.0041 0Z" fill="#e01f54" class="zr1-cls-1"></path>
+<path d="M162.907 433l51.0041 0l0 -113.1429l-51.0041 0Z" fill="#e01f54" class="zr1-cls-1"></path>
+<path d="M214.2707 433l51.0041 0l0 -113.1429l-51.0041 0Z" fill="#e01f54" class="zr1-cls-1"></path>
+<path d="M265.6343 433l51.0041 0l0 -282.8571l-51.0041 0Z" fill="#e01f54" class="zr1-cls-1"></path>
+<path d="M316.998 433l51.0041 0l0 -282.8571l-51.0041 0Z" fill="#e01f54" class="zr1-cls-1"></path>
+<path d="M368.3616 433l51.0041 0l0 -396l-51.0041 0Z" fill="#e01f54" class="zr1-cls-1"></path>
+<path d="M419.7252 433l51.0041 0l0 -396l-51.0041 0Z" fill="#e01f54" class="zr1-cls-1"></path>
+<path d="M471.0889 433l51.0041 0l0 -339.4286l-51.0041 0Z" fill="#e01f54" class="zr1-cls-1"></path>
+<path d="M522.4525 433l51.0041 0l0 -226.2857l-51.0041 0Z" fill="#e01f54" class="zr1-cls-1"></path>
+<path d="M573.8161 433l51.0041 0l0 -56.5714l-51.0041 0Z" fill="#e01f54" class="zr1-cls-1"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(85.6818 421)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">0</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(137.0455 404.7143)" fill="#eee" stroke="#e01f54" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">1</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(188.4091 376.4286)" fill="#eee" stroke="#e01f54" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">2</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(239.7727 376.4286)" fill="#eee" stroke="#e01f54" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">2</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(291.1364 291.5714)" fill="#eee" stroke="#e01f54" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">5</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(342.5 291.5714)" fill="#eee" stroke="#e01f54" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">5</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(393.8636 235)" fill="#eee" stroke="#e01f54" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">7</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(445.2273 235)" fill="#eee" stroke="#e01f54" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">7</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(496.5909 263.2857)" fill="#eee" stroke="#e01f54" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">6</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(547.9545 319.8571)" fill="#eee" stroke="#e01f54" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">4</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(599.3182 404.7143)" fill="#eee" stroke="#e01f54" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">1</text>
+<path d="M-68 -5l136 0l0 24l-136 0Z" transform="translate(320 10)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#3c3c41" stroke-width="0" class="zr1-cls-0"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:14px;font-family:sans-serif;font-weight:bold;" y="7" transform="translate(320 10)" fill="#333333">学生分数分布直方图</text>
+<style ><![CDATA[
+.zr1-cls-0:hover {
+pointer-events:none;
+}
+.zr1-cls-1:hover {
+cursor:pointer;
+fill:rgba(246,34,92,1);
+}
+
+]]>
+
+</style>
+</svg>
